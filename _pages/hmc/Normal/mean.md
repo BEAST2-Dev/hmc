@@ -7,3 +7,10 @@ tags: []
 ## Normal mean
 
 mean of the normal distribution, defaults to 0
+
+
+See also: [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution).
+
+
+Jordan Douglas' distribution viewer: 
+<iframe width='1224' height='768' src='https://jordandouglas.github.io/distributions/' title='Distribution Viewer'></iframe>
