@@ -1,9 +1,8 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Standard  Clock_ Model
+title: BEAST 2 Help Me Choose Standard Template Clock Model
 tags: []
 ---
 
-## Standard  Clock_ Model
+## Standard Template Clock Model
 
-Click to help me choose
