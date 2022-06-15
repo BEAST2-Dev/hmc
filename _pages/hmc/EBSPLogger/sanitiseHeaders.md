@@ -1,9 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose E B S P Logger sanitise Headers
+title: BEAST 2 Help Me Choose EBSP logger -- sanitise headers
 tags: []
 ---
 
-## E B S P Logger sanitise Headers
+## EBSP logger -- sanitise headers
 
-whether to remove any clutter introduced by Beauti
+Whether to remove any clutter introduced by BEAUti in the headers.
+This has no effect on the EBSP logger.

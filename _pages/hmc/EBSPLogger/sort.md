@@ -1,9 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose E B S P Logger sort
+title: BEAST 2 Help Me Choose EBSP logger -- sort
 tags: []
 ---
 
-## E B S P Logger sort
+## EBSP logger -- 
 
-sort items to be logged, one of [none, alphabetic, smart]
+Sort items to be logged, one of `none`, `alphabetic`, `smart`. 
+Since only a single item (demographic.alltrees) is logged, this has no effect on the output.

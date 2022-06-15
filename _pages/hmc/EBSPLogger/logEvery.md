@@ -1,9 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose E B S P Logger log Every
+title: BEAST 2 Help Me Choose EBSP Logger log Every
 tags: []
 ---
 
-## E B S P Logger log Every
+## EBSP Logger log Every
 
-Number of the samples logged
+Number of MCMC samples between log entries.
+Make sure the log frequency is the same as used for the tree loggers, so that the EBSP analyser can use the logs for reconstructing population histories.

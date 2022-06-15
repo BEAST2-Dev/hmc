@@ -1,9 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose E B S P Logger mode
+title: BEAST 2 Help Me Choose EBSP Logger -- logger mode
 tags: []
 ---
 
-## E B S P Logger mode
+## EBSP Logger -- logger mode
 
-logging mode, one of [autodetect, compound, tree]
+Logging mode, one of `autodetect`, `compound`, `tree`.
+For EBSP logs, `autodetect` or `compound` is most appropriate

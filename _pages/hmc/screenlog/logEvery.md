@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose screenlog log Every
+title: BEAST 2 Help Me Choose Screen log -- log every
 tags: []
 ---
 
-## screenlog log Every
+## Screen log -- log every
 
 Number of the MCMC steps before a sample is being logged to screen.
 

@@ -1,9 +1,8 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Standard  Site_ Model
+title: BEAST 2 Help Me Choose Standard Site Model
 tags: []
 ---
 
-## Standard  Site_ Model
+## Standard  Site Model
 
-Click to help me choose
