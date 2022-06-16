@@ -1,9 +1,15 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Rate A C Prior
+title: BEAST 2 Help Me Choose Rate AC Prior
 tags: []
 ---
 
-## Rate A C Prior
+## Rate AC Prior
 
-Produces prior (log) probability of value x.If x is multidimensional, the components of x are assumed to be independent, so the sum of log probabilities of all elements of x is returned as the prior.
+The rate AC parameter of the GTR model (Tavaré, 1986) represents how large transversion rate A <-> C is when all transversion rates are set to 1. 
+Since this is a rate parameter, a distribution with a range from 0 upwards is appropriate.
+
+
+## References 
+
+Tavaré S. Some probabilistic and statistical problems in the analysis of DNA sequences. Lectures on mathematics in the life sciences. 1986 Dec 31;17(2):57-86.

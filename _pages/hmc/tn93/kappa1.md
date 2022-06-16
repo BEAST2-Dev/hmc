@@ -6,7 +6,7 @@ tags: []
 
 ## TN93 kappa1
 
-The kappa1 parameter in the TN93 () nucleotide substitution model represents how large the A<->G transition rate is when all transversion rates are set to 1. 
+The kappa1 parameter in the TN93 (Tamura, Nei, 1993) nucleotide substitution model represents how large the A<->G transition rate is when all transversion rates are set to 1. 
 
 ### `value`
 
