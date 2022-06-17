@@ -39,3 +39,6 @@ It will be informed by the prior and the data.
 In rare occasions, it may help to put in a large upper bound far away from the posterior to prevent the MCMC escaping to an extemely small trees and extremely large clock rates.
 Usually, an upper bound of Infinity is fine.
 
+
+
+See also [clock rate prior](/ClockPrior/index/)
