@@ -13,3 +13,12 @@ After (or during) the run, open the trace log in [Tracer](https://github.com/bea
 If the traces do not look like this, then the chain length needs to be increased. Depending on how far away the traces look from their ideal, you may increase a little (perhaps double the chain length) or increase a lot (add a zero).
 
 Note that when changing the chain length, you might want to change the [log frequency](../tracelog/logEvery/) as well.
+
+## Alternatives
+
+If it turns out that ESSs never become large enough, and increasing the chain length does not help, you could consider using [Coupled MCMC](https://github.com/nicfel/CoupledMCMC) (Müller & Bouckaert, 2020) instead. 
+Coupled MCMC usually mixes better, especially for poorly mixing MCMC analyses, at the cost of running extra threads.
+
+## References
+
+Müller NF, Bouckaert RR. Adaptive Metropolis-coupled MCMC for BEAST 2. PeerJ. 2020 Sep 16;8:e9473. <a href="http://doi.org/10.7717/peerj.9473>doi:10.7717/peerj.9473</a>.
