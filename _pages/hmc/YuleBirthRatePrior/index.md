@@ -36,10 +36,13 @@ I am not aware of any reason to choose one over the other for birth rate priors,
 BEAUti shows the mean and 95% HPD of the distributions below the density graph, and updates them when updating paramaters of the distribution.
 Use the mean and 95% HPD obtained from Step 1 & 2 to parameterise the chosen distribution so that the mean of Step 1 and the 95% HPD of Step 2 match with that of the distribution. 
 
+Note that with the log-normal distribution \\(S=1.4\\) gives a range of two orders of magnitude, and with \\(S=2.8\\) it gives a range of four orders of magnitude. 
+The median is in the middle of the range in logspace, e.g. with \\(M=-6.905,S=1.4\\), the 95% HPD range is 1e-4 to 1e-2 with median 1e-3. 
+With \\(S=2.8\\) the range changes to 1e-5 to 1e-1, but the median remains at 1e-3.
+
 
 ## References
 
-
-Magallon S, Sanderson MJ. Absolute diversification rates in angiosperm clades. Evolution. 2001 Sep;55(9):1762-80.<a href="http://doi.org/10.1111/j.0014-3820.2001.tb00826.x">doi:10.1111/j.0014-3820.2001.tb00826.x</a>.
+Magallon S, Sanderson MJ. Absolute diversification rates in angiosperm clades. Evolution. 2001 Sep;55(9):1762-80. <a href="http://doi.org/10.1111/j.0014-3820.2001.tb00826.x">doi:10.1111/j.0014-3820.2001.tb00826.x</a>.
 
 Steel M, Mooers A. The expected length of pendant and interior edges of a Yule tree. Applied Mathematics Letters. 2010 Nov 1;23(11):1315-9. <a href="https://doi.org/10.1016/j.aml.2010.06.021">doi:10.1016/j.aml.2010.06.021</a>.

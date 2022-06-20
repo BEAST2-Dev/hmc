@@ -17,7 +17,7 @@ Here is a three step recipe to specify a prior on the clock rate.
 
 Often, the literature provides some information about mutation rates for species similar to the one you are analysing.
 For example Kumar et al (2002) suggest an average mammalian genome mutation rate is 2.2e−9 per base pair per year.
-Sanjuán et al (2010) provide rates for some viruses ranging from 1e−8 to 1e−6 for DNA viruses and from 1e−6 to 1e−4 for RNA viruses.
+Sanjuán et al (2010) provide rates for some viruses ranging from 1e−8 to 1e−6 for DNA viruses and from 1e−6 to 1e−4 for RNA viruses. Jenkins et al (2002) has estimates for 50 RNA virussues in the range 1e-4 to 1e-2.
 Krasovec et al (2020) estimate a rate of 5.5e−10 for phytoplankton.
 There is probably some prior research available on closely related species to use as initial mean mutation rate, so search the literature for this. 
 Experience from previous analyses can be used as well, if there is no overlap in the data being used in these analyses.
@@ -73,6 +73,8 @@ It is good practice to describe the prior in the methods section, and provide ju
 ## References
 
 Banner KM, Irvine KM, Rodhouse TJ. The use of Bayesian priors in Ecology: The good, the bad and the not great. Methods in Ecology and Evolution. 2020 Aug;11(8):882-9. <a href=" https://doi.org/10.1111/2041-210X.13407">doi:10.1111/2041-210X.13407</a>.
+
+Jenkins GM, Rambaut A, Pybus OG, Holmes EC. Rates of molecular evolution in RNA viruses: a quantitative phylogenetic analysis. Journal of molecular evolution. 2002 Feb;54(2):156-65.
 
 Krasovec M, Rickaby RE, Filatov DA. Evolution of mutation rate in astronomically large phytoplankton populations. Genome biology and evolution. 2020 Jul 1.
 
