@@ -50,9 +50,9 @@ However, a Uniform [0, Infinity) is an [improper prior](https://en.wikipedia.org
 
 So, how about restricting the range to [0, 1]? In general, the clock rate is a small number, in the range 1e-2 to 1e-10 depending on the species and time units of the tree. A uniform prior of [0, 1] implies that more than 99% of the probability mass (for rates of order 1e-2) and more than 99.9999% of the probability mass (for rates of order 1e-6 and smaller) is assumed a priori to be larger than the expected rate. So, even though we know beforehand that the rate should be of order 1e-2 or less (which we can find out from the literature), the uniform [0, 1] badly misrepresents that knowledge.
 
-### Uniform other
-
 Furthermore, the density is not 0 at 0, which we know beforehand cannot be true.
+
+### Uniform other
 
 If a uniform prior could be used as follows: for an expected mean of say 1e-4 (from Step 1) but large uncertainty about this mean, a uniform [1e-5, 1e-3] prior could represent that knowledge. 
 Still, if the data implies a clock rate outside this range this is not allowed by a uniform prior, so a log-normal or (inverse) gamma distribution would be a better choice.

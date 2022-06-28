@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Strict clock -- clock.rate
+title: BEAST 2 Help Me Choose clock.rate
 tags: []
 ---
 
-## Strict clock -- clock.rate
+## Clock model -- clock.rate
 
 The `clock.rate` represents the mean clock rate of the clock model.
 
