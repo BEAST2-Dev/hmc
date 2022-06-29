@@ -27,7 +27,7 @@ This is only relevant if `estimate` is true and ignored otherwise.
 
 ## References
 
-Rosenberg MS, Subramanian S, Kumar S. Patterns of transitional mutation biases within and among mammalian genomes. Molecular biology and evolution. 2003 Jun 1;20(6):988-93.  <a href="https://doi.org/10.1093/molbev/msg113">doi:10.1093/molbev/msg113</a>.
+Rosenberg MS, Subramanian S, Kumar S. Patterns of transitional mutation biases within and among mammalian genomes. Molecular biology and evolution. 2003 Jun 1;20(6):988-93. <a href="https://doi.org/10.1093/molbev/msg113">doi:10.1093/molbev/msg113</a>.
 
 Hasegawa M, Kishino H, Yano TA. Dating of the human-ape splitting by a molecular clock of mitochondrial DNA. Journal of molecular evolution. 1985 Oct;22(2):160-74. <a href="https://doi.org/10.1007%2FBF02101694"> doi:10.1007/BF02101694</a>.
 

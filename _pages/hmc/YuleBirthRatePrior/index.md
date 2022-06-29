@@ -36,9 +36,9 @@ I am not aware of any reason to choose one over the other for birth rate priors,
 BEAUti shows the mean and 95% HPD of the distributions below the density graph, and updates them when updating paramaters of the distribution.
 Use the mean and 95% HPD obtained from Step 1 & 2 to parameterise the chosen distribution so that the mean of Step 1 and the 95% HPD of Step 2 match with that of the distribution. 
 
-Note that with the log-normal distribution \\(S=1.4\\) gives a range of two orders of magnitude, and with \\(S=2.8\\) it gives a range of four orders of magnitude. 
-The median is in the middle of the range in logspace, e.g. with \\(M=-6.905,S=1.4\\), the 95% HPD range is 1e-4 to 1e-2 with median 1e-3. 
-With \\(S=2.8\\) the range changes to 1e-5 to 1e-1, but the median remains at 1e-3.
+Note that with the log-normal distribution \\(S=1.175\\) gives a range of two orders of magnitude, and with \\(S=2.35\\) it gives a range of four orders of magnitude. 
+The median is in the middle of the range in logspace, e.g. with \\(M=-6.906,S=1.175\\), the 95% HPD range is 1e-4 to 1e-2 with median 1e-3. 
+With \\(S=2.35\\) the range changes to 1e-5 to 1e-1, but the median remains at 1e-3.
 
 
 ## References

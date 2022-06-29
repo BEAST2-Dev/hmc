@@ -21,4 +21,4 @@ Coupled MCMC usually mixes better, especially for poorly mixing MCMC analyses, a
 
 ## References
 
-Müller NF, Bouckaert RR. Adaptive Metropolis-coupled MCMC for BEAST 2. PeerJ. 2020 Sep 16;8:e9473. <a href="http://doi.org/10.7717/peerj.9473>doi:10.7717/peerj.9473</a>.
+Müller NF, Bouckaert RR. Adaptive Metropolis-coupled MCMC for BEAST 2. PeerJ. 2020 Sep 16;8:e9473. <a href="https://doi.org/10.7717/peerj.9473">doi:10.7717/peerj.9473</a>.

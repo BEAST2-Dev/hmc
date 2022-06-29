@@ -30,6 +30,6 @@ See [Step 2 & 3](../YuleBirthRatePrior/index/) for the Yule birth rate prior on 
 
 ## References
 
-Magallon S, Sanderson MJ. Absolute diversification rates in angiosperm clades. Evolution. 2001 Sep;55(9):1762-80.<a href="http://doi.org/10.1111/j.0014-3820.2001.tb00826.x">doi:10.1111/j.0014-3820.2001.tb00826.x</a>.
+Magallon S, Sanderson MJ. Absolute diversification rates in angiosperm clades. Evolution. 2001 Sep;55(9):1762-80. <a href="http://doi.org/10.1111/j.0014-3820.2001.tb00826.x">doi:10.1111/j.0014-3820.2001.tb00826.x</a>.
 
 Steel M, Mooers A. The expected length of pendant and interior edges of a Yule tree. Applied Mathematics Letters. 2010 Nov 1;23(11):1315-9. <a href="https://doi.org/10.1016/j.aml.2010.06.021">doi:10.1016/j.aml.2010.06.021</a>.
