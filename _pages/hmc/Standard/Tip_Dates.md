@@ -35,6 +35,7 @@ If this option is selected, a format string  will be used to convert the entries
 The format string may be any combination of the following special characters 
 and other delimiting characters such as '-' or '/'.
 
+```
   Symbol  Meaning                     Examples
   ------  -------                     --------
    G       era                         AD; Anno Domini; A
@@ -51,6 +52,7 @@ and other delimiting characters such as '-' or '/'.
    E       day-of-week                 Tue; Tuesday; T
    e/c     localized day-of-week       2; 02; Tue; Tuesday; T
    F       week-of-month               3
+```
 
 (The table above is an extract from the documentation for the DateTimeFormatter class which is used by BEAST to parse dates.)
 
@@ -69,9 +71,11 @@ The file must contain one row per taxon, with each row containing the taxon name
 
 For instance, a file specifying the ages of three taxa named taxonA, taxonB and taxonC should contain the following:
 
+```
 taxonA 0.0
 taxonB 0.1
 taxonC 0.2
+```
 
 where the gap between each taxon name and its corresponding trait value must be a TAB.
 

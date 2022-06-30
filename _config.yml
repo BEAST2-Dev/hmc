@@ -19,7 +19,7 @@ description: The extensible Bayesian phylogenetic analysis platform.
 
 #baseurl: "" # This is automatically filled in by GitHub.
 
-#url: "http://beast2.org" # the base hostname & protocol for your site
+url: "https://beast2-dev.github.io/hmc/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
