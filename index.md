@@ -4,15 +4,197 @@ title: BEAST 2 Help Me Choose
 tags: []
 ---
 
-
 # Welcome to Help Me Choose
 
-## Choose a template
+## Standard template
+<a href='/hmc/hmc/Standard/Clock_Model/'>Standard Template Clock Model</a>
+<a href='/hmc/hmc/Standard/Initialization/'>Standard  Initialization</a>
+<a href='/hmc/hmc/Standard/MCMC/'>Standard Template MCMC panel</a>
+<a href='/hmc/hmc/Standard/Operators/'>Standard  operators panel</a>
+<a href='/hmc/hmc/Standard/Partitions/'>Standard template partitions panel</a>
+<a href='/hmc/hmc/Standard/Priors/'>Standard template priors panel</a>
+<a href='/hmc/hmc/Standard/Site_Model/'>Standard template site model panel</a>
+<a href='/hmc/hmc/Standard/Starting_tree/'>Standard Starting tree</a>
+<a href='/hmc/hmc/Standard/Tip_Dates/'>Standard  Tip dates</a>
 
-## Choose a site model
+## Priors
+<a href='/hmc/hmc/Priors/BirthRatePrior/'>Birth rate prior</a>
+<a href='/hmc/hmc/Priors/CalibratedYuleBirthRatePrior/'>Calibrated Yule birth rate prior</a>
+<a href='/hmc/hmc/Priors/ClockPrior/'>Clock Prior</a>
+<a href='/hmc/hmc/Priors/DeathRatePrior/'>Death Rate Prior</a>
+<a href='/hmc/hmc/Priors/ePopSizePrior/'>e Pop Size Prior</a>
+<a href='/hmc/hmc/Priors/FrequenciesPrior/'>Frequencies Prior</a>
+<a href='/hmc/hmc/Priors/GammaShapePrior/'>Gamma Shape Prior</a>
+<a href='/hmc/hmc/Priors/GrowthRatePrior/'>Growth Rate Prior</a>
+<a href='/hmc/hmc/Priors/indicatorsPrior/'>indicators Prior</a>
+<a href='/hmc/hmc/Priors/kappa1Prior/'>Kappa 1 prior</a>
+<a href='/hmc/hmc/Priors/kappa2Prior/'>Kappa 2 prior</a>
+<a href='/hmc/hmc/Priors/KappaPrior/'>Rate Kappa Prior</a>
+<a href='/hmc/hmc/Priors/MutationRatePrior/'>Mutation rate prior</a>
+<a href='/hmc/hmc/Priors/PopSizePrior/'>Pop size prior</a>
+<a href='/hmc/hmc/Priors/populationMeanPrior/'>population Mean Prior</a>
+<a href='/hmc/hmc/Priors/PropInvariantPrior/'>Proportion invariable prior</a>
+<a href='/hmc/hmc/Priors/RateGTRPrior/'>GTR Rate Priors</a>
+<a href='/hmc/hmc/Priors/YuleBirthRatePrior/'>Yule birth rate prior</a>
 
-## Choose a clock model
+## Parametric Distributions
+<a href='/hmc/hmc/ParametricDistributions/Beta/alpha/'>Beta alpha</a>
+<a href='/hmc/hmc/ParametricDistributions/Beta/beta/'>Beta beta</a>
+<a href='/hmc/hmc/ParametricDistributions/Beta/offset/'>Beta offset</a>
+<a href='/hmc/hmc/ParametricDistributions/Exponential/mean/'>Exponential mean</a>
+<a href='/hmc/hmc/ParametricDistributions/Exponential/offset/'>Exponential offset</a>
+<a href='/hmc/hmc/ParametricDistributions/Gamma/alpha/'>Gamma alpha</a>
+<a href='/hmc/hmc/ParametricDistributions/Gamma/beta/'>Gamma beta</a>
+<a href='/hmc/hmc/ParametricDistributions/Gamma/mode/'>Gamma mode</a>
+<a href='/hmc/hmc/ParametricDistributions/Gamma/offset/'>Gamma offset</a>
+<a href='/hmc/hmc/ParametricDistributions/InverseGamma/alpha/'>Inverse Gamma alpha</a>
+<a href='/hmc/hmc/ParametricDistributions/InverseGamma/beta/'>Inverse Gamma beta</a>
+<a href='/hmc/hmc/ParametricDistributions/InverseGamma/offset/'>Inverse Gamma offset</a>
+<a href='/hmc/hmc/ParametricDistributions/LaplaceDistribution/mu/'>Laplace Distribution mu</a>
+<a href='/hmc/hmc/ParametricDistributions/LaplaceDistribution/offset/'>Laplace Distribution offset</a>
+<a href='/hmc/hmc/ParametricDistributions/LaplaceDistribution/scale/'>Laplace Distribution scale</a>
+<a href='/hmc/hmc/ParametricDistributions/LogNormalDistributionModel/M/'>Log Normal Distribution Model  M</a>
+<a href='/hmc/hmc/ParametricDistributions/LogNormalDistributionModel/meanInRealSpace/'>Log Normal Distribution Model mean In Real Space</a>
+<a href='/hmc/hmc/ParametricDistributions/LogNormalDistributionModel/offset/'>Log Normal Distribution Model offset</a>
+<a href='/hmc/hmc/ParametricDistributions/LogNormalDistributionModel/S/'>Log Normal Distribution Model  S</a>
+<a href='/hmc/hmc/ParametricDistributions/Normal/mean/'>Normal mean</a>
+<a href='/hmc/hmc/ParametricDistributions/Normal/offset/'>Normal offset</a>
+<a href='/hmc/hmc/ParametricDistributions/Normal/sigma/'>Normal sigma</a>
+<a href='/hmc/hmc/ParametricDistributions/OneOnX/offset/'>One On X offset</a>
+<a href='/hmc/hmc/ParametricDistributions/Poisson/lambda/'>Poisson lambda</a>
+<a href='/hmc/hmc/ParametricDistributions/Poisson/offset/'>Poisson offset</a>
+<a href='/hmc/hmc/ParametricDistributions/Uniform/lower/'>Uniform lower</a>
+<a href='/hmc/hmc/ParametricDistributions/Uniform/offset/'>Uniform offset</a>
+<a href='/hmc/hmc/ParametricDistributions/Uniform/upper/'>Uniform upper</a>
 
-## Choose a tree prior
+## Operators
+<a href='/hmc/hmc/Operators/BactrianDeltaExchange/'>Bactrian delta exchange operator</a>
+<a href='/hmc/hmc/Operators/BactrianDistribution/'>kernel distribution</a>
+<a href='/hmc/hmc/Operators/BactrianNodeOperator/'>Bactrian node operator</a>
+<a href='/hmc/hmc/Operators/BactrianRandomWalk/'>Bactrian random walk operator</a>
+<a href='/hmc/hmc/Operators/BactrianRateScaler/'>Bactrian rate scale operator</a>
+<a href='/hmc/hmc/Operators/BactrianSubtreeSlide/'>Subtree slide operator</a>
+<a href='/hmc/hmc/Operators/BactrianTreeScaler/'>Bactrian tree scale operator</a>
+<a href='/hmc/hmc/Operators/BactrianUpDown/'>Bactrian Up Down Operator</a>
+<a href='/hmc/hmc/Operators/BitFlipper/'>Bit Flip Operator</a>
+<a href='/hmc/hmc/Operators/EpochFlexer/'>Epoch Flex Operator</a>
+<a href='/hmc/hmc/Operators/Exchange/'>Exchange operator</a>
+<a href='/hmc/hmc/Operators/SampleOffValues/'>SampleOffValues operator</a>
+<a href='/hmc/hmc/Operators/SubtreeSlide/'>Subtree slide operator</a>
+<a href='/hmc/hmc/Operators/TreeStretcher/'>Tree stretch operator</a>
+<a href='/hmc/hmc/Operators/WilsonBalding/'>WilsonBalding operator</a>
 
-## Choose a prior
+## StarBeast
+<a href='/hmc/hmc/StarBeast/Clock_Model/'>Star Beast  Clock_ Model</a>
+<a href='/hmc/hmc/StarBeast/Initialization/'>Star Beast  Initialization</a>
+<a href='/hmc/hmc/StarBeast/MCMC/'>Star Beast  M C M C</a>
+<a href='/hmc/hmc/StarBeast/Multi_Species_Coalescent/'>Star Beast  Multi_ Species_ Coalescent</a>
+<a href='/hmc/hmc/StarBeast/Operators/'>Star Beast  Operators</a>
+<a href='/hmc/hmc/StarBeast/Partitions/'>Star Beast  Partitions</a>
+<a href='/hmc/hmc/StarBeast/Priors/'>Star Beast  Priors</a>
+<a href='/hmc/hmc/StarBeast/Site_Model/'>Star Beast  Site_ Model</a>
+<a href='/hmc/hmc/StarBeast/Taxon_sets/'>Star Beast  Taxon_sets</a>
+
+## Other
+<a href='/hmc/hmc/BayesianSkyline/index/'>Bayesian Skyline</a>
+<a href='/hmc/hmc/BirthDeath/index/'>Birth Death</a>
+<a href='/hmc/hmc/birthRate/dimension/'>birth Rate dimension</a>
+<a href='/hmc/hmc/birthRate/estimate/'>birth Rate estimate</a>
+<a href='/hmc/hmc/birthRate/keys/'>birth Rate keys</a>
+<a href='/hmc/hmc/birthRate/lower/'>birth Rate lower</a>
+<a href='/hmc/hmc/birthRate/minordimension/'>birth Rate minordimension</a>
+<a href='/hmc/hmc/birthRate/upper/'>birth Rate upper</a>
+<a href='/hmc/hmc/CalibratedYuleModel/index/'>Calibrated Yule Model</a>
+<a href='/hmc/hmc/ClusterTree/adjustTreeNodeHeights/'>Cluster Tree adjust Tree Node Heights</a>
+<a href='/hmc/hmc/ClusterTree/clock.rate/'>Cluster Tree clock.rate</a>
+<a href='/hmc/hmc/ClusterTree/clusterType/'>Cluster Tree cluster Type</a>
+<a href='/hmc/hmc/CoalescentConstant/index/'>Coalescent Constant</a>
+<a href='/hmc/hmc/CoalescentExponential/index/'>Coalescent Exponential</a>
+<a href='/hmc/hmc/ConstantPopulation0/popSize/'>Constant Population0 pop Size</a>
+<a href='/hmc/hmc/EBSPLogger/fileName/'>EBSP logger -- file name</a>
+<a href='/hmc/hmc/EBSPLogger/logEvery/'>EBSP Logger log Every</a>
+<a href='/hmc/hmc/EBSPLogger/mode/'>EBSP Logger -- logger mode</a>
+<a href='/hmc/hmc/EBSPLogger/sanitiseHeaders/'>EBSP logger -- sanitise headers</a>
+<a href='/hmc/hmc/EBSPLogger/sort/'>EBSP logger -- sort</a>
+<a href='/hmc/hmc/ExtendedBayesianSkyline/index/'>Extended Bayesian Skyline</a>
+<a href='/hmc/hmc/gtr/frequencies/'>GTR frequencies</a>
+<a href='/hmc/hmc/gtr/rateAC/'>GTR rate AC</a>
+<a href='/hmc/hmc/gtr/rateAG/'>GTR rate AG</a>
+<a href='/hmc/hmc/gtr/rateAT/'>GTR rate AT</a>
+<a href='/hmc/hmc/gtr/rateCG/'>GTR rate CG</a>
+<a href='/hmc/hmc/gtr/rateCT/'>GTR rate CT</a>
+<a href='/hmc/hmc/gtr/rateGT/'>GTR rate GT</a>
+<a href='/hmc/hmc/hky/frequencies/'>HKY frequencies</a>
+<a href='/hmc/hmc/hky/kappa/'>HKY kappa</a>
+<a href='/hmc/hmc/MarkovChainedPopSizes/initialMean/'>Markov Chained Pop Sizes initial Mean</a>
+<a href='/hmc/hmc/MarkovChainedPopSizes/jeffreys/'>Markov Chained Pop Sizes jeffreys</a>
+<a href='/hmc/hmc/MarkovChainedPopSizes/parameter/'>Markov Chained Pop Sizes parameter</a>
+<a href='/hmc/hmc/MarkovChainedPopSizes/reverse/'>Markov Chained Pop Sizes reverse</a>
+<a href='/hmc/hmc/MarkovChainedPopSizes/shape/'>Markov Chained Pop Sizes shape</a>
+<a href='/hmc/hmc/MarkovChainedPopSizes/uselog/'>Markov Chained Pop Sizes uselog</a>
+<a href='/hmc/hmc/MarkovChainedPopSizes/useLogNormal/'>Markov Chained Pop Sizes use Log Normal</a>
+<a href='/hmc/hmc/mcmc/chainLength/'>MCMC chain length</a>
+<a href='/hmc/hmc/mcmc/numInitializationAttempts/'>MCMC num initialization attempts</a>
+<a href='/hmc/hmc/mcmc/operatorschedule/'>MCMC operator schedule</a>
+<a href='/hmc/hmc/mcmc/preBurnin/'>MCMC pre burnin</a>
+<a href='/hmc/hmc/mcmc/sampleFromPrior/'>MCMC sample from prior</a>
+<a href='/hmc/hmc/mcmc/storeEvery/'>MCMC store every</a>
+<a href='/hmc/hmc/NewickTree/adjustTipHeights/'>Newick Tree adjust Tip Heights</a>
+<a href='/hmc/hmc/NewickTree/adjustTreeNodeHeights/'>Newick Tree adjust Tree Node Heights</a>
+<a href='/hmc/hmc/NewickTree/binarizeMultifurcations/'>Newick Tree binarize Multifurcations</a>
+<a href='/hmc/hmc/NewickTree/IsLabelledNewick/'>Newick Tree  Is Labelled Newick</a>
+<a href='/hmc/hmc/NewickTree/newick/'>Newick Tree newick</a>
+<a href='/hmc/hmc/NewickTree/offset/'>Newick Tree offset</a>
+<a href='/hmc/hmc/NewickTree/scale/'>Newick Tree scale</a>
+<a href='/hmc/hmc/NewickTree/singlechild/'>Newick Tree singlechild</a>
+<a href='/hmc/hmc/NewickTree/threshold/'>Newick Tree threshold</a>
+<a href='/hmc/hmc/OperatorSchedule/autoOptimize/'>Operator Schedule auto Optimize</a>
+<a href='/hmc/hmc/OperatorSchedule/autoOptimizeDelay/'>Operator Schedule auto Optimize Delay</a>
+<a href='/hmc/hmc/OperatorSchedule/detailedRejection/'>Operator Schedule detailed Rejection</a>
+<a href='/hmc/hmc/OperatorSchedule/transform/'>Operator Schedule transform</a>
+<a href='/hmc/hmc/OperatorSchedule/weight/'>Operator Schedule weight</a>
+<a href='/hmc/hmc/OperatorSchedule/weightIsPercentage/'>Operator Schedule weight Is Percentage</a>
+<a href='/hmc/hmc/popMean/index/'>pop Mean</a>
+<a href='/hmc/hmc/popPriorDist/mean/'>pop Prior Dist mean</a>
+<a href='/hmc/hmc/popPriorDist/offset/'>pop Prior Dist offset</a>
+<a href='/hmc/hmc/RandomLocalClock/includeRoot/'>Random Local Clock -- include root</a>
+<a href='/hmc/hmc/RandomLocalClock/ratesAreMultipliers/'>Random local clock -- rates are multipliers</a>
+<a href='/hmc/hmc/RandomLocalClock/RatesPrior/'>random local clock -- rate prior</a>
+<a href='/hmc/hmc/RandomLocalClock/RRateChangesPrior/'>random local clock -- rate change prior</a>
+<a href='/hmc/hmc/RandomLocalClock/scaling/'>random local clock -- scaling</a>
+<a href='/hmc/hmc/RandomTree/adjustTreeNodeHeights/'>Random Tree adjust Tree Node Heights</a>
+<a href='/hmc/hmc/RandomTree/rootHeight/'>Random Tree root Height</a>
+<a href='/hmc/hmc/RelaxedClock/normalize/'>Relaxed clock -- normalize</a>
+<a href='/hmc/hmc/RelaxedClock/numberOfDiscreteRates/'>Relaxed Clock -- number of discrete rates</a>
+<a href='/hmc/hmc/screenlog/fileName/'>screenlog file Name</a>
+<a href='/hmc/hmc/screenlog/logEvery/'>Screen log -- log every</a>
+<a href='/hmc/hmc/screenlog/mode/'>screenlog mode</a>
+<a href='/hmc/hmc/screenlog/sanitiseHeaders/'>screenlog sanitise headers</a>
+<a href='/hmc/hmc/screenlog/sort/'>screenlog sort</a>
+<a href='/hmc/hmc/SiteModel/gammaCategoryCount/'>Site Model gamma category count</a>
+<a href='/hmc/hmc/SiteModel/mutationRate/'>Site Model mutation rate</a>
+<a href='/hmc/hmc/SiteModel/proportionInvariant/'>Site Model proportion invariable</a>
+<a href='/hmc/hmc/SiteModel/shape/'>Site Model shape</a>
+<a href='/hmc/hmc/SiteModel/substModel/'>Site Model subst Model</a>
+<a href='/hmc/hmc/speciesTreeLogger/fileName/'>Species tree logger file name</a>
+<a href='/hmc/hmc/speciesTreeLogger/logEvery/'>Species tree logger -- log every</a>
+<a href='/hmc/hmc/speciesTreeLogger/mode/'>Species tree logger mode</a>
+<a href='/hmc/hmc/speciesTreeLogger/sanitiseHeaders/'>Species tree logger sanitise headers</a>
+<a href='/hmc/hmc/speciesTreeLogger/sort/'>Species tree logger sort</a>
+<a href='/hmc/hmc/StrictClock/clock.rate/'>clock.rate</a>
+<a href='/hmc/hmc/tn93/frequencies/'>TN93 frequencies</a>
+<a href='/hmc/hmc/tn93/kappa1/'>tn93 kappa1</a>
+<a href='/hmc/hmc/tn93/kappa2/'>tn93 kappa2</a>
+<a href='/hmc/hmc/tracelog/fileName/'>tracelog file Name</a>
+<a href='/hmc/hmc/tracelog/logEvery/'>Trace log -- log Every</a>
+<a href='/hmc/hmc/tracelog/mode/'>tracelog mode</a>
+<a href='/hmc/hmc/tracelog/sanitiseHeaders/'>tracelog sanitise Headers</a>
+<a href='/hmc/hmc/tracelog/sort/'>tracelog sort</a>
+<a href='/hmc/hmc/treeLikelihood/branchRateModel/'>tree Likelihood branch Rate Model</a>
+<a href='/hmc/hmc/treeLikelihood/siteModel/'>tree Likelihood site Model</a>
+<a href='/hmc/hmc/treelog/fileName/'>treelog file Name</a>
+<a href='/hmc/hmc/treelog/logEvery/'>Tree log -- log every</a>
+<a href='/hmc/hmc/treelog/mode/'>treelog mode</a>
+<a href='/hmc/hmc/treelog/sanitiseHeaders/'>treelog sanitise headers</a>
+<a href='/hmc/hmc/treelog/sort/'>treelog sort</a>
+<a href='/hmc/hmc/YuleModel/index/'>Yule model</a>

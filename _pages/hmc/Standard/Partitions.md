@@ -65,7 +65,14 @@ With multiple trees, and there is an interest in one of the site model parameter
 
 Another reason for linking site models is that a single site model can be configured in the site model panel, then unlinking all site models leaves all partitions with the same site model (another way to achieve this is by setting up the site model of the first partition in the site model panel, then clone all other partitions from the first partition).
 
+## Ambiguities
 
+In the list of partitions, the last column indicates whether ambiguous characters should be interpreted as missing data (default behaviour) or taken in account (you need to switch on the check box for this).
+Including ambiguities is more accurate, however comes at a computational cost: it takes about twice as long to calculate tree likelihoods.
+
+When only a small proportion of the data is ambiguous, there is probably not a lot of information in these ambiguous sites and it is safe to interpret them as missing data.
+
+When a large proportion of sites is ambiguous, this can affect the result of the analysis, so ambiguities need to be switched on.
 
 
 ## References
