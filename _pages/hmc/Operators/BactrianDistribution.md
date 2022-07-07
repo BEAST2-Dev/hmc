@@ -1,6 +1,6 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose kernel distribution
+title: BEAST 2 Help Me Choose Kernel distribution
 tags: []
 ---
 

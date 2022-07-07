@@ -21,7 +21,8 @@ This option is used when a Pruned Tree ([BEASTLabs](https://github.com/BEAST2-De
 
 ## `weight` (Double)
 
-Weight with which this operator is selected (required). 
+Weight with which this operator is selected (required).
+See also [operator weight tuning](/hmc/Operators/OperatorWeights/) 
 
 For narrow exchange, the weight is usually set relatively high, where it proposes only local changes to the tree.
 

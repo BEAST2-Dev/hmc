@@ -1,16 +1,16 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Epoch Flex Operator
+title: BEAST 2 Help Me Choose Epoch flex operator
 tags: []
 ---
 
-## Epoch Flex Operator
+## Epoch flex operator
 
-Scale operator that scales random epoch in a tree
+Scale operator that scales random epoch in a tree (Bouckaert, 2022).
 
 ## `tree` (Tree)
 
-Beast.tree on which this operation is performed (required)
+Beast.tree on which this operation is performed (required).
 
 ## `kernelDistribution` (KernelDistribution)
 
@@ -40,4 +40,8 @@ Intervals for a phylogenetic beast tree. Must be specified if groupSizes is spec
 ## `weight` (Double)
 
 Weight with which this operator is selected (required).
+See also [operator weight tuning](/hmc/Operators/OperatorWeights/)
 
+## References
+
+Bouckaert RR. An Efficient Coalescent Epoch Model for Bayesian Phylogenetic Inference, Systematic Biology, syac015, 2022 <a href="https://doi.org/10.1093/sysbio/syac015">doi:10.1093/sysbio/syac015</a>.

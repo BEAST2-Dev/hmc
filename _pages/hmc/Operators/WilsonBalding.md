@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose WilsonBalding operator
+title: BEAST 2 Help Me Choose Wilson Balding operator
 tags: []
 ---
 
-## WilsonBalding operator
+## Wilson Balding operator
 
 Implements the unweighted Wilson-Balding branch swapping move (Drummond et al, 2002). 
 This move is similar to one proposed by WILSON and BALDING 1998  and involves removing a subtree and re-attaching it on a new parent branch. 
@@ -17,7 +17,8 @@ This option is used when a Pruned Tree ([BEASTLabs](https://github.com/BEAST2-De
 
 ## `weight` (Double)
 
-Weight with which this operator is selected (required)
+Weight with which this operator is selected (required).
+See also [operator weight tuning](/hmc/Operators/OperatorWeights/).
 
 Wilson Balding is useful during burn-in, but later on during MCMC tends to have low acceptance rate, so the weight is usually set low.
 

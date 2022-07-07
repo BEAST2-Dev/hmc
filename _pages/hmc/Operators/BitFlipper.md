@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Bit Flip Operator
+title: BEAST 2 Help Me Choose Bit flip operator
 tags: []
 ---
 
-## Bit Flip Operator
+## Bit flip operator
 
 Flip one bit in an array of boolean bits. 
 The hastings ratio is designed so that all subsets of vectors with the same number of 'on' bits are equiprobable.
@@ -19,5 +19,6 @@ The parameter to operate a flip on. (required)
 
 ## `weight` (Double)
 
-Weight with which this operator is selected (required)
+Weight with which this operator is selected (required).
+See also [operator weight tuning](/hmc/Operators/OperatorWeights/).
 

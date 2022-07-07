@@ -38,7 +38,8 @@ Mark all ancestors of nodes changed by the operator as changed, up to the MRCA o
 
 ## `weight` (Double): 
 
-Weight with which this operator is selected (required). 
+Weight with which this operator is selected (required).
 The weight is usually set relatively high.
+See also [operator weight tuning](/hmc/Operators/OperatorWeights/) 
 
 

@@ -60,6 +60,7 @@ Lower limit of scale factor (optional, default: 1.0E-8)
 
 Weight with which this operator is selected (required).
 Depending on how well the rate parameter mixes compared to other parameter, this weight can be increased (if ESSs are relatively low) or decreased (if ESSs are high).
+See also [operator weight tuning](/hmc/Operators/OperatorWeights/).
 
 ## References
 

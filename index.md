@@ -24,7 +24,7 @@ tags: []
 <p><a href='/hmc/hmc/Priors/DeathRatePrior/'>Death Rate Prior</a></p>
 <p><a href='/hmc/hmc/Priors/ePopSizePrior/'>e Pop Size Prior</a></p>
 <p><a href='/hmc/hmc/Priors/FrequenciesPrior/'>Frequencies Prior</a></p>
-<p><a href='/hmc/hmc/Priors/GammaShapePrior/'>Gamma Shape Prior</a></p>
+<p><a href='/hmc/hmc/Priors/GammaShapePrior/'>Gamma shape prior</a></p>
 <p><a href='/hmc/hmc/Priors/GrowthRatePrior/'>Growth Rate Prior</a></p>
 <p><a href='/hmc/hmc/Priors/indicatorsPrior/'>indicators Prior</a></p>
 <p><a href='/hmc/hmc/Priors/kappa1Prior/'>Kappa 1 prior</a></p>
@@ -69,20 +69,21 @@ tags: []
 
 ## Operators
 <p><a href='/hmc/hmc/Operators/BactrianDeltaExchange/'>Bactrian delta exchange operator</a></p>
-<p><a href='/hmc/hmc/Operators/BactrianDistribution/'>kernel distribution</a></p>
+<p><a href='/hmc/hmc/Operators/BactrianDistribution/'>Kernel distribution</a></p>
 <p><a href='/hmc/hmc/Operators/BactrianNodeOperator/'>Bactrian node operator</a></p>
 <p><a href='/hmc/hmc/Operators/BactrianRandomWalk/'>Bactrian random walk operator</a></p>
 <p><a href='/hmc/hmc/Operators/BactrianRateScaler/'>Bactrian rate scale operator</a></p>
 <p><a href='/hmc/hmc/Operators/BactrianSubtreeSlide/'>Subtree slide operator</a></p>
 <p><a href='/hmc/hmc/Operators/BactrianTreeScaler/'>Bactrian tree scale operator</a></p>
-<p><a href='/hmc/hmc/Operators/BactrianUpDown/'>Bactrian Up Down Operator</a></p>
-<p><a href='/hmc/hmc/Operators/BitFlipper/'>Bit Flip Operator</a></p>
-<p><a href='/hmc/hmc/Operators/EpochFlexer/'>Epoch Flex Operator</a></p>
+<p><a href='/hmc/hmc/Operators/BactrianUpDown/'>Bactrian up down operator</a></p>
+<p><a href='/hmc/hmc/Operators/BitFlipper/'>Bit flip operator</a></p>
+<p><a href='/hmc/hmc/Operators/EpochFlexer/'>Epoch flex operator</a></p>
 <p><a href='/hmc/hmc/Operators/Exchange/'>Exchange operator</a></p>
+<p><a href='/hmc/hmc/Operators/OperatoreWeights/'>Operator weight tuning</a></p>
 <p><a href='/hmc/hmc/Operators/SampleOffValues/'>SampleOffValues operator</a></p>
 <p><a href='/hmc/hmc/Operators/SubtreeSlide/'>Subtree slide operator</a></p>
 <p><a href='/hmc/hmc/Operators/TreeStretcher/'>Tree stretch operator</a></p>
-<p><a href='/hmc/hmc/Operators/WilsonBalding/'>WilsonBalding operator</a></p>
+<p><a href='/hmc/hmc/Operators/WilsonBalding/'>Wilson Balding operator</a></p>
 
 ## StarBeast
 <p><a href='/hmc/hmc/StarBeast/Clock_Model/'>Star Beast  Clock_ Model</a></p>

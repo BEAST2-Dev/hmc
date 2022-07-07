@@ -41,5 +41,6 @@ See also [kernel distributions](/Operators/BactrianDistribution/index/).
 
 Weight with which this operator is selected (required).
 Usually left fairly low, unless the parameter operated on (e.g. frequencies for a substitution model) is very low compared to other parameters.
+See also [operator weight tuning](/hmc/Operators/OperatorWeights/)
 
 

@@ -44,6 +44,7 @@ Lower limit of scale factor (optional, default: 1.0E-8).
 ## `weight` (Double)
 
 Weight with which this operator is selected (required).
+See also [operator weight tuning](/hmc/Operators/OperatorWeights/)
 
 ## References
 

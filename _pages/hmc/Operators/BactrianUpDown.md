@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Bactrian Up Down Operator
+title: BEAST 2 Help Me Choose Bactrian up down operator
 tags: []
 ---
 
-## Bactrian Up Down Operator
+## Bactrian up down operator
 
 Like the non Bactrian UpDownOperator, this element represents an operator that scales two (or more) parameters in different directions, but uses a Bactrian proposal distribution for the scale value. 
 The up parameter is multiplied by this scale and the down parameter is divided by this scale.
@@ -47,5 +47,6 @@ See also [kernel distributions](/Operators/BactrianDistribution/index/).
 
 ## `weight` (Double)
 
-Weight with which this operator is selected (required)
+Weight with which this operator is selected (required).
+See also [operator weight tuning](/hmc/Operators/OperatorWeights/).
 

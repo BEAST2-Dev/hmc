@@ -49,4 +49,5 @@ Must be specified if groupSizes is specified. (optional)
 ## `weight` (Double)
 
 Weight with which this operator is selected (required).
+See also [operator weight tuning](/hmc/Operators/OperatorWeights/).
 

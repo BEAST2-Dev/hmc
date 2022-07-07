@@ -28,7 +28,8 @@ See also [kernel distributions](/Operators/BactrianDistribution/index/).
 
 ## `weight` (Double)
 
-Weight with which this operator is selected (required)
+Weight with which this operator is selected (required).
+See also [operator weight tuning](/hmc/Operators/OperatorWeights/).
 
 ## References
 
