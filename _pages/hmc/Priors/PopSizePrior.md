@@ -8,9 +8,19 @@ tags: []
 
 The population size prior for the population of the coalescent tree prior with constant population.
 
+First, estimate a range that the root height can be plausible to be in.
+Let \\(t_{low}, t_{hi}\\) be a rough estimate of the 95 % HPD interval for the tree height.
+Note that \\(t_{low}\\) and \\(t_{hi}\\) can be orders of magnitude apart if you have no further information.
+For example, if there are no time calibrations and the tree is in units of substitutions, we do not expect the tree to be much over 1 or under 0.01, so \\(t_{low}=0.01,t_{hi}=1\\) would do. If there is some prior knowledge about the mutation rate from the literature, say \\(c\\), then the tree will probably not much over \\(1/c\\) or below \\(0.01/c\\).
+
+Next, the population size \\(N\\) and root height \\(t\\) are related as \\((E[t]=2(1-1/N)\\) (Tavaré et al, 1997) so we can use \\(N=1-2/t\\), so by plugging in \\(t_{low}\\) for \\(t\\) gives us \\(N_{low}\\), and likewise plugging in \\(t_{hi}\\) for \\(t\\) gives use \\{N_{hi}\\.
 
 
-The population size \\(N\\) and root height \\(t\\) are related as \\((E[t]=2(1-1/N)\\) (Tavaré et al, 1997) so we can use \\(N=1-2/t\\) as mean for our prior.
+Finally, since population sizes are non-zero positive numbers, choose a distribution that has a positive range, like the log-normal or (inverse) gamma distribution.
+Fit the 95% HPD to the \\(N_{low}\\) and \\(N_{hi}\\) values obtained above.
+
+
+
 
 
 ## References 

@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose GTR Rate Priors
+title: BEAST 2 Help Me Choose GTR rate priors
 tags: []
 ---
 
-## GTR Rate Priors
+## GTR rate priors
 
 The rate parameters of the GTR model (Tavaré, 1986) are typically not all estimated.
 Since BEAST normalises rates, not all six rates should be estimated to prevent unidentifiability.

@@ -1,6 +1,6 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Death Rate Prior
+title: BEAST 2 Help Me Choose Death rate prior
 tags: []
 ---
 

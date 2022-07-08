@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Rate Kappa Prior
+title: BEAST 2 Help Me Choose Kappa prior
 tags: []
 ---
 
-## Kappa Prior
+## Kappa prior
 
 The kappa parameter of the HKY model (Hasegawa et al, 1985) represents how large transition rates are when all transversion rates are set to 1. 
 Since this is a rate parameter, a distribution with a range from 0 upwards is appropriate.

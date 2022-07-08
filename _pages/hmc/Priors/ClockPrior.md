@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Clock Prior
+title: BEAST 2 Help Me Choose Clock prior
 tags: [prior]
 ---
 
-## Clock Prior
+## Clock prior
 
 The clock prior is the prior on the mean clock rate. 
 
