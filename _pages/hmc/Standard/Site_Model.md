@@ -1,6 +1,6 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Standard template site model panel
+title: BEAST 2 Help Me Choose Standard template -- site model panel
 tags: []
 ---
 

@@ -1,10 +1,17 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Standard template priors panel
+title: BEAST 2 Help Me Choose Standard template -- priors panel
 tags: []
 ---
 
 ## Standard template -- priors panel
+
+There is a huge amount of literature on setting priors (see Banner et al (2020), Sarma & Kay (2020) and references). It is good practice to:
+
+* Become familiar with formulating priors. Realise uniform priors are not necessarily uninformative: a uniform[0,1] clock rate implies \\(p(clock rate>1e-4)=0.9999\\), and [uniform tree priors are particularly strange](https://www.beast2.org/2021/05/31/uniform-tree-prior.html).
+* Treat default priors with suspicion: are these priors really reflecting the prior you intend?
+* Describe the prior in the methods section, and provide justification (e.g. reference to literature for mean, and magnitude of variance based on uncertainty about the rate). Strong priors need strong justification, weak priors less so.
+* Priors can interact in unexpected and unpredictable ways, so sample from the prior and inspect the trace log in order to make sure the prior intended to be specified is actually the prior that is sampled from.
 
 Here, we will concentrate on the choice of tree prior. Other priors have their own 'help me choose' information with hints specific to these priors that you can find by clicking the little question mark button next to the prior.
 
@@ -70,6 +77,8 @@ Note that both MASCOT and BDMM are sensitive to priors on migration rates and ot
 
 ## References
 
+Banner KM, Irvine KM, Rodhouse TJ. The use of Bayesian priors in Ecology: The good, the bad and the not great. Methods in Ecology and Evolution. 2020 Aug;11(8):882-9. <a href=" https://doi.org/10.1111/2041-210X.13407">doi:10.1111/2041-210X.13407</a>.
+
 Bouckaert RR. An Efficient Coalescent Epoch Model for Bayesian Phylogenetic Inference, Systematic Biology, syac015, 2022 <a href="https://doi.org/10.1093/sysbio/syac015">doi:10.1093/sysbio/syac015</a>.
 
 Drummond AJ, Rambaut A, Shapiro BE, Pybus OG. Bayesian coalescent inference of past population dynamics from molecular sequences, Molecular Biology and Evolution. 22(5):1185-92, 2005. <a href="http://doi.org/10.1093/molbev/msi103">doi:10.1093/molbev/msi103</a>.
@@ -83,6 +92,8 @@ Kühnert D, Stadler T, Vaughan TG, Drummond AJ. Phylodynamics with migration: a 
 Matschiner M, Musilová Z, Barth JM, Starostová Z, Salzburger W, Steel M, Bouckaert R. Bayesian phylogenetic estimation of clade ages supports trans-Atlantic dispersal of cichlid fishes. Systematic biology. 2017 Jan 1;66(1):3-22. <a href="https://doi.org/10.1093/sysbio/syw076">doi:10.1093/sysbio/syw076</a>.
 
 Müller NF, Rasmussen D, Stadler T. MASCOT: parameter and state inference under the marginal structured coalescent approximation. Bioinformatics. 2018 Nov 15;34(22):3843-8. <a href="http://doi.org/10.1093/bioinformatics/bty406">doi:10.1093/bioinformatics/bty406</a>.
+
+Sarma A, Kay M. Prior setting in practice: Strategies and rationales used in choosing prior distributions for Bayesian analysis. Proceedings of the 2020 chi conference on human factors in computing systems 2020 Apr 21 (pp. 1-12). <a href="http://doi.org/10.1145/3313831.3376377">doi: 10.1145/3313831.3376377</a>.
 
 Stadler T, Kühnert D, Bonhoeffer S, Drummond AJ. Birth–death skyline plot reveals temporal changes of epidemic spread in HIV and hepatitis C virus (HCV). Proceedings of the National Academy of Sciences. 2013 Jan 2;110(1):228-33. <a href="https://doi.org/10.1073/pnas.120796511">doi:10.1073/pnas.120796511</a>.
 

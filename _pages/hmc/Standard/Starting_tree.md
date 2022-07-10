@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Standard Starting tree
+title: BEAST 2 Help Me Choose Standard template --starting tree panel
 tags: []
 ---
 
-## Standard template -- starting tree
+## Standard template -- starting tree panel
 
 There are three types of starting trees available for standard analyses:
 

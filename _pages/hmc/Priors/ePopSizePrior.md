@@ -7,6 +7,10 @@ tags: []
 ## Exponential pop size prior
 
 This is the prior on the present day population size under the coalescent model with an exponential growth rate.
+Note that this is the [effective population size](https://en.wikipedia.org/wiki/Effective_population_size), which can be  significantly smaller than the actual population size (Frankman, 1997).
+Knowledge of actual population size can therefore not directly used to inform the prior, but values from the literature could be used for inspiration. 
+
+
 The coalescent with constant population size is a special case of exponential growth with growth rate zero.
 Arguably, the same approach as for the prior on population size with constant population applies to determining this prior: let \\(t_{low}, t_{hi}\\) be a rough estimate of the 95 % HPD interval for the tree height.
 The population size \\(N\\) and root height \\(t\\) are related as \\((E[t]=2(1-1/N)\\) (Tavaré et al, 1997) so we can use \\(N=1-2/t\\) as mean for our prior, so by plugging in \\(t_{low}\\) for \\(t\\) gives us \\(N_{low}\\), and likewise plugging in \\(t_{hi}\\) for \\(t\\) gives use \\{N_{hi}\\.
@@ -22,5 +26,7 @@ See also [growth rate prior](/hmc/Priors/GrowthRatePrior/), [population size pri
 
 
 ## References
+
+Frankham R. Effective population size/adult population size ratios in wildlife: a review. Genetics Research. 1995 Oct;66(2):95-107. <a href="https://doi.org/10.1017/S0016672300034455">doi:10.1017/S0016672300034455</a>.
 
 Tavaré S, Balding DJ, Griffiths RC, Donnelly P. Inferring coalescence times from DNA sequence data. Genetics. 1997 Feb 1;145(2):505-18. <a href="http://doi.org/10.1093/genetics/145.2.505">doi:10.1093/genetics/145.2.505</a>.

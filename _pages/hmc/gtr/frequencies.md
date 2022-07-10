@@ -21,4 +21,4 @@ In general `estimated` is preferred, but if it hampers mixing and increasing the
 
 Tavaré S. Some probabilistic and statistical problems in the analysis of DNA sequences. Lectures on mathematics in the life sciences. 1986 Dec 31;17(2):57-86.
 
-See also [substitution models](https://en.wikipedia.org/wiki/Substitution_model).
+See also [substitution models](/hmc/SiteModel/substModel/).

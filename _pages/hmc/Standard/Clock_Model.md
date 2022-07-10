@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Standard Template Clock Model
+title: BEAST 2 Help Me Choose Standard template -- clock model panel
 tags: []
 ---
 
-## Choosing a clock model
+## Standard template -- clock model panel
 
 Here, we will consider the strict clock, uncorrelated relaxed clock (Drummond et al, 2006, Douglas et al, 2021) and random local clock (Drummond & Suchard, 2010).
 

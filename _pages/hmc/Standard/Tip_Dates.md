@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Standard  Tip dates
+title: BEAST 2 Help Me Choose Standard template -- tip dates panel
 tags: []
 ---
 
-## Standard  template -- tip dates
+## Standard  template -- tip dates panel
 
 By enabling tip dates, one or more taxa can be specified to have dates back in time. 
 This enables estimating root dates when sampling times are sufficiently far appart (at least 10% of root height between oldest and newest taxon, but preferably more to reduce uncertainty in root height estimate).

@@ -1,9 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Coalescent Exponential
+title: BEAST 2 Help Me Choose Coalescent exponential
 tags: []
 ---
 
-## Coalescent Exponential
+## Coalescent exponential
 
-Calculates the probability of a beast.tree conditional on a population size function. Note that this does not take the number of possible tree interval/tree topology combinations in account, in other words, the constant required for making this a proper distribution that integrates to unity is not calculated (partly, because we don't know how for sequentially sampled data).
+Calculates the probability of a beast.tree conditional on an exponential population size function. 
+Note that this does not take the number of possible tree interval/tree topology combinations in account, in other words, the constant required for making this a proper distribution that integrates to unity is not calculated (partly, because we don't know how for sequentially sampled data).

@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Standard Template MCMC panel
+title: BEAST 2 Help Me Choose Standard template -- MCMC panel
 tags: []
 ---
 
-## Standard Template -- MCMC panel
+## Standard template -- MCMC panel
 
 Though MCMC is the workhorse of Bayesian inference, and the default option in the Standard template in BEAUti, MCMC does not always converge, or provide the information that we want.
 Alternatives to MCMC are:

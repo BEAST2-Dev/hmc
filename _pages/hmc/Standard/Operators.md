@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Standard  operators panel
+title: BEAST 2 Help Me Choose Standard template -- operators panel
 tags: []
 ---
 
-## Standard  -- operators panel
+## Standard template -- operators panel
 
 There are two sections in the operators panel
 

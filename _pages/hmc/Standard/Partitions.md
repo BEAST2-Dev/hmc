@@ -1,6 +1,6 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Standard template partitions panel
+title: BEAST 2 Help Me Choose Standard template -- partitions panel
 tags: []
 ---
 
