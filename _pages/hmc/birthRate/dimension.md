@@ -1,9 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose birth Rate dimension
+title: BEAST 2 Help Me Choose Birth rate -- dimension
 tags: []
 ---
 
-## birth Rate dimension
+## Birth rate -- dimension
 
-dimension of the parameter (default 1, i.e scalar)
+Dimension of the parameter (default 1, i.e scalar).
+Should be left as is.

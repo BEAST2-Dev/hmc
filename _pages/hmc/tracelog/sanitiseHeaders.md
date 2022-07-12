@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose tracelog sanitise Headers
+title: BEAST 2 Help Me Choose Trace log -- sanitise headers
 tags: []
 ---
 
-## Trace log sanitise Headers
+## Trace log -- sanitise headers
 
 BEAUti introduces some clutter in parameter names to identify whether parameters are part of the site model, clock model or tree model (of the form `param.s:partition`, `param.c:partition`, and `param.t:partiation` respectively).
 When `sanitiseHeaders` is set to true for trace logs, this removes that clutter from the header of a log file.

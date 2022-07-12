@@ -1,6 +1,6 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Standard template --starting tree panel
+title: BEAST 2 Help Me Choose Standard template -- starting tree panel
 tags: []
 ---
 

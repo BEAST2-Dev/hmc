@@ -1,9 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Newick Tree  Is Labelled Newick
+title: BEAST 2 Help Me Choose Newick tree -- is labelled Newick
 tags: []
 ---
 
-## Newick Tree  Is Labelled Newick
+## Newick tree -- is labelled Newick
 
-Is the newick tree labelled (alternatively contains node numbers)? Default=false.
+Flag to indicate that the Newick tree is labelled.
+If not labelled, the Newick tree is assumed to contains node numbers associated with taxa.

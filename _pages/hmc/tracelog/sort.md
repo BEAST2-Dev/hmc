@@ -1,6 +1,6 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose tracelog sort
+title: BEAST 2 Help Me Choose Trace log -- sort
 tags: []
 ---
 

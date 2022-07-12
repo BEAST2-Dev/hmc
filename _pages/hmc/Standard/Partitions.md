@@ -79,7 +79,7 @@ When a large proportion of sites is ambiguous, this can affect the result of the
 
 Douglas J, Jiménez-Silva CL, Bouckaert R. StarBeast3: Adaptive Parallelized Bayesian Inference under the Multispecies Coalescent. Systematic Biology. 2022 Feb 17. <a href="http://doi.org/10.1093/sysbio/syac010">doi:10.1093/sysbio/syac010</a>.
 
-Ogilvie HA, Heled J, Xie D, Drummond AJ. Computational performance and statistical accuracy of *BEAST and comparisons with other methods. Systematic biology. 2016 May 1;65(3):381-96. <a href="http://dx.doi.org/10.1093/sysbio/syv118">doi:10.1093/sysbio/syv118</a>.
+Ogilvie HA, Heled J, Xie D, Drummond AJ. Computational performance and statistical accuracy of *BEAST and comparisons with other methods. Systematic biology. 2016 May 1;65(3):381-96. <a href="http://doi.org/10.1093/sysbio/syv118">doi:10.1093/sysbio/syv118</a>.
 
 Shapiro B, Rambaut A, Drummond AJ. Choosing appropriate substitution models for the phylogenetic analysis of protein-coding sequences. Molecular biology and evolution. 2006 Jan 1;23(1):7-9. <a href="http://doi.org/10.1093/molbev/msj021">doi:10.1093/molbev/msj021</a>.
 

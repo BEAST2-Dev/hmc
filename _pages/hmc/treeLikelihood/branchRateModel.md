@@ -1,9 +1,11 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose tree Likelihood branch Rate Model
+title: BEAST 2 Help Me Choose Tree likelihood branch rate model
 tags: []
 ---
 
-## tree Likelihood branch Rate Model
+## Tree likelihood branch rate model
 
-A model describing the rates on the branches of the beast.tree.
+A model describing the rates on the branches of the tree.
+This is best edited in the clock model panel.
+See [clock models](../../Standard/Clock_Model/) for more information.

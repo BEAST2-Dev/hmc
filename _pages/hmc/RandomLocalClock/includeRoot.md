@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Random Local Clock -- include root
+title: BEAST 2 Help Me Choose Random local clock -- include root
 tags: []
 ---
 
-## Random Local Clock -- include root
+## Random local clock -- include root
 
 If true, then the root can take on an arbitrary rate, otherwise the root branch has rate 1.0.
 

@@ -1,9 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose birth Rate upper
+title: BEAST 2 Help Me Choose Birth rate -- upper
 tags: []
 ---
 
-## birth Rate upper
+## Birth rate -- upper
 
-upper value for this parameter (default +infinity)
+Upper value for this parameter (default +infinity).
+Unless you have specific information, tthis usually does not have to be changed since the birth rate will be kept in check by its prior.

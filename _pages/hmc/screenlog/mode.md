@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose screenlog mode
+title: BEAST 2 Help Me Choose Screen log -- mode
 tags: []
 ---
 
-## Screen log mode
+## Screen log -- mode
 
 Logging mode, one of `autodetect`, `compound`, `tree`. For screen logs, `autodetect` is most appropriate.
 

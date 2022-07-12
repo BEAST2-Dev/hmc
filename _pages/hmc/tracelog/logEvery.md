@@ -1,6 +1,6 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Trace log -- log Every
+title: BEAST 2 Help Me Choose Trace log -- log every
 tags: []
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Random Tree adjust Tree Node Heights
+title: BEAST 2 Help Me Choose Random tree -- adjust tree node heights
 tags: []
 ---
 
-## Random Tree adjust Tree Node Heights
+## Random tree -- adjust tree node heights
 
-if true (default), then tree node heights are adjusted to avoid non-positive branch lengths. If you want to maintain zero branch lengths then you must set this to false.
+If true (default), then tree node heights are adjusted to avoid non-positive branch lengths. 
+If you want to maintain zero branch lengths then you must set this to false.

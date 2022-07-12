@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose screenlog sort
+title: BEAST 2 Help Me Choose Screen log -- sort
 tags: []
 ---
 
-## Screen log sort
+## Screen log -- sort
 
 Sort items to be logged, one of `none`, `alphabetic`, `smart`. Usually, `none` is fine.
 

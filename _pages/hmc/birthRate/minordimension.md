@@ -1,9 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose birth Rate minordimension
+title: BEAST 2 Help Me Choose Birth rate -- minordimension
 tags: []
 ---
 
-## birth Rate minordimension
+## Birth rate -- minordimension
 
-minor-dimension when the parameter is interpreted as a matrix (default 1)
+Minor-dimension when the parameter is interpreted as a matrix (default 1).
+Should be kept at 1 for this parameter.

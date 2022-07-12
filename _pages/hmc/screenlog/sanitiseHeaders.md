@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose screenlog sanitise headers
+title: BEAST 2 Help Me Choose Screen log -- sanitise headers
 tags: []
 ---
 
-## Screen log sanitise headers
+## Screen log -- sanitise headers
 
 
 BEAUti introduces some clutter in parameter names to identify whether parameters are part of the site model, clock model or tree model (of the form `param.s:partition`, `param.c:partition`, and `param.t:partiation` respectively).

@@ -1,9 +1,12 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Newick Tree singlechild
+title: BEAST 2 Help Me Choose Newick tree - singlechild
 tags: []
 ---
 
-## Newick Tree singlechild
+## Newick tree -- singlechild
 
-flag to indicate that single child nodes are allowed. Default=true.
+Flag to indicate that single child nodes are allowed. 
+By default, trees are expected to be binary trees.
+Reading in a tree with single child nodes while not setting the `singlechild` flag to true results in an error.
+

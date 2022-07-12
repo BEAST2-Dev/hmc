@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose treelog file Name
+title: BEAST 2 Help Me Choose Tree log -- file name
 tags: []
 ---
 
-## treelog file Name
+## Tree log -- file name
 
 Name of the file, or stdout if left blank.
 File names can be parameterised, and there are a few build-in parameters: 

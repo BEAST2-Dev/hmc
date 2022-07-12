@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose tracelog mode
+title: BEAST 2 Help Me Choose Trace log -- mode
 tags: []
 ---
 
-## Trace log mode
+## Trace log -- mode
 
 Logging mode, one of `autodetect`, `compound`, `tree`. For trace logs, `autodetect` or `compound` is most appropriate.
 

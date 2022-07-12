@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose tracelog file Name
+title: BEAST 2 Help Me Choose Trace log -- file name
 tags: []
 ---
 
-## tracelog file Name
+## Trace log -- file name
 
 Name of the file, or stdout if left blank.
 File names can be parameterised, and there are a few build-in parameters: 

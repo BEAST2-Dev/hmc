@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Species tree logger sanitise headers
+title: BEAST 2 Help Me Choose Species tree logger -- sanitise headers
 tags: []
 ---
 
-## Species tree logger sanitise headers
+## Species tree logger -- sanitise headers
 
 This option is ignored for tree logs.
 

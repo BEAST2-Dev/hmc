@@ -1,9 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose birth Rate keys
+title: BEAST 2 Help Me Choose Birth rate -- keys
 tags: []
 ---
 
-## birth Rate keys
+## Birth rate -- keys
 
-the keys (unique dimension names) for the dimensions of this parameter
+The keys (unique dimension names) for the dimensions of this parameter.
+Can be left undefined.

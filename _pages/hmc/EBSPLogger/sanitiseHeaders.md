@@ -8,3 +8,5 @@ tags: []
 
 Whether to remove any clutter introduced by BEAUti in the headers.
 This has no effect on the EBSP logger.
+
+See also [trace log sanitise headers](../tacelog/sanitiseHeaders/), [tree log sanitise headers](../treelog/sanitiseHeaders/), [screen log sanitise headers](../screenlog/sanitiseHeaders/).

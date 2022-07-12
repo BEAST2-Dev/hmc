@@ -1,10 +1,10 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose Species tree logger mode
+title: BEAST 2 Help Me Choose Species tree logger -- mode
 tags: []
 ---
 
-## Species tree logger mode
+## Species tree logger -- mode
 
 Logging mode, one of `autodetect`, `compound`, `tree`. For tree logs, `tree` is most appropriate.
 
