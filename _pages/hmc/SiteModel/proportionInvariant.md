@@ -33,4 +33,4 @@ Bouckaert RR. OBAMA: OBAMA for Bayesian amino-acid model averaging. PeerJ. 2020 
 Waddell P. Evolutionary trees of apes and humans from DNA sequences. Handbook of human symbolic evolution. 1996:53-73.
 
 
-See also [identifiability of gamma + I](http://www.beast2.org/2020/11/25/OBAMA.html), [gamma category count](gammaCategoryCount/), [gamma shape parameter](shape/).
+See also [identifiability of gamma + I](http://www.beast2.org/2020/11/25/OBAMA.html), [gamma category count](../gammaCategoryCount/), [gamma shape parameter](../shape/).

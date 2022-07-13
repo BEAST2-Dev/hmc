@@ -1,6 +1,6 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose random local clock -- scaling
+title: BEAST 2 Help Me Choose Random local clock -- scaling
 tags: []
 ---
 

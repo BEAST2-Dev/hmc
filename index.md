@@ -151,9 +151,9 @@ tags: []
 <br><a href='/hmc/hmc/OperatorSchedule/weightIsPercentage/'>Operator schedule -- weight is percentage</a>
 <br><a href='/hmc/hmc/RandomLocalClock/includeRoot/'>Random local clock -- include root</a>
 <br><a href='/hmc/hmc/RandomLocalClock/ratesAreMultipliers/'>Random local clock -- rates are multipliers</a>
-<br><a href='/hmc/hmc/RandomLocalClock/RatesPrior/'>random local clock -- rate prior</a>
-<br><a href='/hmc/hmc/RandomLocalClock/RRateChangesPrior/'>random local clock -- rate change prior</a>
-<br><a href='/hmc/hmc/RandomLocalClock/scaling/'>random local clock -- scaling</a>
+<br><a href='/hmc/hmc/RandomLocalClock/RatesPrior/'>Random local clock -- rate prior</a>
+<br><a href='/hmc/hmc/RandomLocalClock/RRateChangesPrior/'>Random local clock -- rate change prior</a>
+<br><a href='/hmc/hmc/RandomLocalClock/scaling/'>Random local clock -- scaling</a>
 <br><a href='/hmc/hmc/RandomTree/adjustTreeNodeHeights/'>Random tree -- adjust tree node heights</a>
 <br><a href='/hmc/hmc/RandomTree/rootHeight/'>Random tree -- root height</a>
 <br><a href='/hmc/hmc/RelaxedClock/normalize/'>Relaxed clock -- normalize</a>

@@ -8,4 +8,4 @@ tags: []
 
 This option is ignored for tree logs.
 
-See also [trace log sanitise headers](../tracelog/sanitiseHeaders/), [screen log sanitise headers](../screenlog/sanitiseHeaders/).
+See also [trace log sanitise headers](../../tracelog/sanitiseHeaders/), [screen log sanitise headers](../../screenlog/sanitiseHeaders/).

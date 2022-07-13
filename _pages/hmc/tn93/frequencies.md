@@ -16,7 +16,7 @@ Frequencies is set to one of `estimated`, `empirical` or `equal`:
 
 In general `estimated` is preferred, but if it hampers mixing and increasing the operator weight on the frequency operators does not help, `empirical` will provide a good alternative.
 
-See also [substitution models](/hmc/SiteModel/substModel).
+See also [substitution models](../../SiteModel/substModel).
 
 ## References
 

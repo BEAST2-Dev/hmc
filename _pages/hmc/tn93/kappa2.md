@@ -31,4 +31,4 @@ Rosenberg MS, Subramanian S, Kumar S. Patterns of transitional mutation biases w
 
 Tamura K, Nei M. Estimation of the number of nucleotide substitutions in the control region of mitochondrial DNA in humans and chimpanzees. Molecular biology and evolution. 1993 May 1;10(3):512-26. <a href="https://doi.org/10.1093%2Foxfordjournals.molbev.a040023">doi:10.1093/oxfordjournals.molbev.a040023</a>.
 
-See also [TN93 kappa1](kappa1/).
+See also [TN93 kappa1](../kappa1/).

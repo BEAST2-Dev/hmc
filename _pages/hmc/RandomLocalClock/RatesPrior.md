@@ -1,6 +1,6 @@
 ---
 layout: site
-title: BEAST 2 Help Me Choose random local clock -- rate prior
+title: BEAST 2 Help Me Choose Random local clock -- rate prior
 tags: []
 ---
 

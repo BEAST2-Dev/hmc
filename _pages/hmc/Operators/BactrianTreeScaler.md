@@ -11,7 +11,7 @@ Scale operator that finds scale factor according to a Bactrian distribution (Yan
 ## `kernelDistribution` (KernelDistribution)
 
 Provides sample distribution for proposals (optional, default: bactrian)
-See also [kernel distributions](/Operators/BactrianDistribution/index/).
+See also [kernel distributions](../BactrianDistribution/).
 
 ## `tree` (Tree)
 
@@ -44,7 +44,7 @@ Lower limit of scale factor (optional, default: 1.0E-8).
 ## `weight` (Double)
 
 Weight with which this operator is selected (required).
-See also [operator weight tuning](/hmc/Operators/OperatorWeights/)
+See also [operator weight tuning](../OperatorWeights/)
 
 ## References
 
