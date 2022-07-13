@@ -77,7 +77,7 @@ Note that both MASCOT and BDMM are sensitive to priors on migration rates and ot
 
 ## References
 
-Banner KM, Irvine KM, Rodhouse TJ. The use of Bayesian priors in Ecology: The good, the bad and the not great. Methods in Ecology and Evolution. 2020 Aug;11(8):882-9. <a href=" https://doi.org/10.1111/2041-210X.13407">doi:10.1111/2041-210X.13407</a>.
+Banner KM, Irvine KM, Rodhouse TJ. The use of Bayesian priors in Ecology: The good, the bad and the not great. Methods in Ecology and Evolution. 2020 Aug;11(8):882-9. <a href="https://doi.org/10.1111/2041-210X.13407">doi:10.1111/2041-210X.13407</a>.
 
 Bouckaert RR. An Efficient Coalescent Epoch Model for Bayesian Phylogenetic Inference, Systematic Biology, syac015, 2022 <a href="https://doi.org/10.1093/sysbio/syac015">doi:10.1093/sysbio/syac015</a>.
 

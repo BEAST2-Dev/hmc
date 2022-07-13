@@ -192,7 +192,7 @@ tags: []
 <br><a href='/hmc/hmc/YuleModel/index/'>Yule model</a>
 
 ## References
-<br>Banner KM, Irvine KM, Rodhouse TJ. The use of Bayesian priors in Ecology: The good, the bad and the not great. Methods in Ecology and Evolution. 2020 Aug;11(8):882-9. <a href=" https://doi.org/10.1111/2041-210X.13407">doi:10.1111/2041-210X.13407</a>.
+<br>Banner KM, Irvine KM, Rodhouse TJ. The use of Bayesian priors in Ecology: The good, the bad and the not great. Methods in Ecology and Evolution. 2020 Aug;11(8):882-9. <a href="https://doi.org/10.1111/2041-210X.13407">doi:10.1111/2041-210X.13407</a>.
 
 <br>Bouckaert RR. An Efficient Coalescent Epoch Model for Bayesian Phylogenetic Inference, Systematic Biology, syac015, 2022 <a href="https://doi.org/10.1093/sysbio/syac015">doi:10.1093/sysbio/syac015</a>.
 
@@ -200,9 +200,9 @@ tags: []
 
 <br>Bouckaert RR, Drummond AJ. bModelTest: Bayesian phylogenetic site model averaging and model comparison. BMC evolutionary biology. 2017 Dec;17(1):1-1. <a href="http://doi.org/10.1186/s12862-017-0890-6">doi:10.1186/s12862-017-0890-6</a>.
 
-<br>Bouckaert R, Heled J, Kühnert D, Vaughan T, Wu CH, Xie D, Suchard MA, Rambaut A, Drummond AJ. BEAST 2: a software platform for Bayesian evolutionary analysis. PLoS computational biology. 2014 Apr 10;10(4):e1003537.<a href="http://doi.org/10.1371/journal.pcbi.1003537">doi:10.1371/journal.pcbi.1003537</a>
+<br>Bouckaert R, Heled J, Kühnert D, Vaughan T, Wu CH, Xie D, Suchard MA, Rambaut A, Drummond AJ. BEAST 2: a software platform for Bayesian evolutionary analysis. PLoS computational biology. 2014 Apr 10;10(4):e1003537. <a href="http://doi.org/10.1371/journal.pcbi.1003537">doi:10.1371/journal.pcbi.1003537</a>
 
-<br>Bouckaert R, Vaughan TG, Barido-Sottani J, Duchêne S, Fourment M, Gavryushkina A, Heled J, Jones G, Kühnert D, De Maio N, Matschiner M. BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis. PLoS computational biology. 2019 Apr 8;15(4):e1006650.<a href="http://doi.org/10.1371/journal.pcbi.1006650">doi:10.1371/journal.pcbi.1006650</a>
+<br>Bouckaert R, Vaughan TG, Barido-Sottani J, Duchêne S, Fourment M, Gavryushkina A, Heled J, Jones G, Kühnert D, De Maio N, Matschiner M. BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis. PLoS computational biology. 2019 Apr 8;15(4):e1006650. <a href="http://doi.org/10.1371/journal.pcbi.1006650">doi:10.1371/journal.pcbi.1006650</a>
 
 <br>Douglas J, Jiménez-Silva CL, Bouckaert R. StarBeast3: Adaptive Parallelized Bayesian Inference under the Multispecies Coalescent. Systematic Biology. 2022 Feb 17. <a href="http://doi.org/10.1093/sysbio/syac010">doi:10.1093/sysbio/syac010</a>.
 
@@ -220,7 +220,7 @@ tags: []
 
 <br>Gavryushkina A, Welch D, Stadler T, Drummond AJ. Bayesian inference of sampled ancestor trees for epidemiology and fossil calibration. PLoS computational biology. 2014 Dec 4;10(12):e1003919. <a href="https://doi.org/10.1371/journal.pcbi.1003919">doi:10.1371/journal.pcbi.1003919</a>.
 
-<br>Gernhard, T. 2008. The conditioned reconstructed process. Journal of Theoretical Biology Volume 253, Issue 4, 21 August 2008, Pages 769-778" <a href="http://doi.org/10.1016/j.jtbi.2008.04.005">doi:10.1016/j.jtbi.2008.04.005</a>.
+<br>Gernhard, T. 2008. The conditioned reconstructed process. Journal of Theoretical Biology Volume 253, Issue 4, 21 August 2008, Pages 769-778 <a href="http://doi.org/10.1016/j.jtbi.2008.04.005">doi:10.1016/j.jtbi.2008.04.005</a>.
 
 <br>Hasegawa M, Kishino H, Yano TA. Dating of the human-ape splitting by a molecular clock of mitochondrial DNA. Journal of molecular evolution. 1985 Oct;22(2):160-74. <a href="https://doi.org/10.1007%2FBF02101694"> doi:10.1007/BF02101694</a>.
 

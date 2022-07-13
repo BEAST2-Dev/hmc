@@ -24,4 +24,4 @@ It has a two parameters, the birth diff rate and relative death rate, which are 
 
 ## References
 
-Gernhard, T. 2008. The conditioned reconstructed process. Journal of Theoretical Biology Volume 253, Issue 4, 21 August 2008, Pages 769-778" <a href="http://doi.org/10.1016/j.jtbi.2008.04.005">doi:10.1016/j.jtbi.2008.04.005</a>.
+Gernhard, T. 2008. The conditioned reconstructed process. Journal of Theoretical Biology Volume 253, Issue 4, 21 August 2008, Pages 769-778 <a href="http://doi.org/10.1016/j.jtbi.2008.04.005">doi:10.1016/j.jtbi.2008.04.005</a>.

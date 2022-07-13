@@ -72,7 +72,7 @@ It is good practice to describe the prior in the methods section, and provide ju
 
 ## References
 
-Banner KM, Irvine KM, Rodhouse TJ. The use of Bayesian priors in Ecology: The good, the bad and the not great. Methods in Ecology and Evolution. 2020 Aug;11(8):882-9. <a href=" https://doi.org/10.1111/2041-210X.13407">doi:10.1111/2041-210X.13407</a>.
+Banner KM, Irvine KM, Rodhouse TJ. The use of Bayesian priors in Ecology: The good, the bad and the not great. Methods in Ecology and Evolution. 2020 Aug;11(8):882-9. <a href="https://doi.org/10.1111/2041-210X.13407">doi:10.1111/2041-210X.13407</a>.
 
 Jenkins GM, Rambaut A, Pybus OG, Holmes EC. Rates of molecular evolution in RNA viruses: a quantitative phylogenetic analysis. Journal of molecular evolution. 2002 Feb;54(2):156-65.
 
