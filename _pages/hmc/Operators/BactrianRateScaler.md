@@ -11,7 +11,7 @@ Scale operator that finds scale factor according to a Bactrian distribution (Yan
 ## `kernelDistribution` (KernelDistribution)
 
 Provides sample distribution for proposals (optional, default: bactrian)
-See also [kernel distributions](/Operators/BactrianDistribution/index/).
+See also [kernel distributions](../BactrianDistribution/).
 
 ## `parameter` (RealParameter)
 
@@ -60,9 +60,8 @@ Lower limit of scale factor (optional, default: 1.0E-8)
 
 Weight with which this operator is selected (required).
 Depending on how well the rate parameter mixes compared to other parameter, this weight can be increased (if ESSs are relatively low) or decreased (if ESSs are high).
-See also [operator weight tuning](/hmc/Operators/OperatorWeights/).
+See also [operator weight tuning](../OperatorWeights/).
 
 ## References
 
-Yang Z, Rodríguez CE. Searching for efficient Markov chain Monte Carlo proposal kernels. Proceedings of the National Academy of Sciences. 2013 Nov 26;110(48):19307-12. [doi: 10.1073/pnas.1311790110]((http
-s://doi.org/10.1073/pnas.1311790110)).
+Yang Z, Rodríguez CE. Searching for efficient Markov chain Monte Carlo proposal kernels. Proceedings of the National Academy of Sciences. 2013 Nov 26;110(48):19307-12. [doi: 10.1073/pnas.1311790110](https://doi.org/10.1073/pnas.1311790110).

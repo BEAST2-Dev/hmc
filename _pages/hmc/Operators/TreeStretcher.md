@@ -19,7 +19,7 @@ Beast.tree on which this operation is performed (required)
 ## `kernelDistribution` (KernelDistribution)
 
 Provides sample distribution for proposals (optional, default: bactrian)
-See also [kernel distributions](/Operators/BactrianDistribution/index/).
+See also [kernel distributions](../BactrianDistribution/).
 
 ## `optimise` (Boolean)
 
@@ -49,5 +49,5 @@ Must be specified if groupSizes is specified. (optional)
 ## `weight` (Double)
 
 Weight with which this operator is selected (required).
-See also [operator weight tuning](/hmc/Operators/OperatorWeights/).
+See also [operator weight tuning](../OperatorWeights/).
 

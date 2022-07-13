@@ -21,6 +21,7 @@ Flag to indicate that the scale factor is automatically changed in order to achi
 ## `kernelDistribution` (KernelDistribution)
 
 Provides sample distribution for proposals (optional, default: bactrian).
+See also [kernel distributions](../BactrianDistribution/).
 
 ## `markclades` (Boolean)
 
@@ -31,6 +32,6 @@ This option is used when a Pruned Tree ([BEASTLabs](https://github.com/BEAST2-De
 
 Weight with which this operator is selected (required).
 This is usually set quite high, since there are many nodes in the tree that need to be moved individually.
-See also [operator weight tuning](/hmc/Operators/OperatorWeights/).
+See also [operator weight tuning](../OperatorWeights/).
 
 

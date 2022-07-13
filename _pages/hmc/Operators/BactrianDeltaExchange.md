@@ -34,13 +34,13 @@ For example, mutation rates for differently sized partitions can be updated so t
 ## `kernelDistribution`  (KernelDistribution)
 
 Provides sample distribution for proposals (optional, default: bactrian). 
-See also [kernel distributions](/Operators/BactrianDistribution/index/).
+See also [kernel distributions](../BactrianDistribution/).
 
 
 ## `weight` (Double)
 
 Weight with which this operator is selected (required).
 Usually left fairly low, unless the parameter operated on (e.g. frequencies for a substitution model) is very low compared to other parameters.
-See also [operator weight tuning](/hmc/Operators/OperatorWeights/)
+See also [operator weight tuning](../OperatorWeights/)
 
 

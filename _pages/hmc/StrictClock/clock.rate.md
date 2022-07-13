@@ -41,4 +41,4 @@ Usually, an upper bound of Infinity is fine.
 
 
 
-See also [clock rate prior](/ClockPrior/index/)
+See also [clock rate prior](../../Priors/ClockPrior/)

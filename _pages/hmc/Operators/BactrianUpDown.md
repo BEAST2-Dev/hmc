@@ -43,10 +43,10 @@ Lower limit of scale factor (optional, default: 0.0)
 ## `kernelDistribution` (KernelDistribution)
 
 Provides sample distribution for proposals (optional, default: bactrian)
-See also [kernel distributions](/Operators/BactrianDistribution/index/).
+See also [kernel distributions](../BactrianDistribution/).
 
 ## `weight` (Double)
 
 Weight with which this operator is selected (required).
-See also [operator weight tuning](/hmc/Operators/OperatorWeights/).
+See also [operator weight tuning](../OperatorWeights/).
 

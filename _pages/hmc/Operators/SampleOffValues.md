@@ -27,5 +27,5 @@ If true, sample all off values in one go. (optional, default: false)
 ## weight (Double)
 
 Weight with which this operator is selected (required).
-See also [operator weight tuning](/hmc/Operators/OperatorWeights/).
+See also [operator weight tuning](../OperatorWeights/).
 

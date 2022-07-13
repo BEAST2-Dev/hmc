@@ -18,7 +18,7 @@ This option is used when a Pruned Tree ([BEASTLabs](https://github.com/BEAST2-De
 ## `weight` (Double)
 
 Weight with which this operator is selected (required).
-See also [operator weight tuning](/hmc/Operators/OperatorWeights/).
+See also [operator weight tuning](../OperatorWeights/).
 
 Wilson Balding is useful during burn-in, but later on during MCMC tends to have low acceptance rate, so the weight is usually set low.
 

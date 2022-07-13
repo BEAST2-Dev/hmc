@@ -20,5 +20,5 @@ The parameter to operate a flip on. (required)
 ## `weight` (Double)
 
 Weight with which this operator is selected (required).
-See also [operator weight tuning](/hmc/Operators/OperatorWeights/).
+See also [operator weight tuning](../OperatorWeights/).
 

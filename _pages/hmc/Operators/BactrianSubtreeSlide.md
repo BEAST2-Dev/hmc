@@ -22,7 +22,7 @@ The size is automatically adjusted during MCMC when `optimise` is true.
 ## `kernelDistribution` (KernelDistribution)
 
 Provides sample distribution for proposals (optional, default: bactrian). 
-See also [kernel distributions](/Operators/BactrianDistribution/index/).
+See also [kernel distributions](../BactrianDistribution/).
 
 ## `optimise` (Boolean)
 
@@ -40,6 +40,6 @@ Mark all ancestors of nodes changed by the operator as changed, up to the MRCA o
 
 Weight with which this operator is selected (required).
 The weight is usually set relatively high.
-See also [operator weight tuning](/hmc/Operators/OperatorWeights/) 
+See also [operator weight tuning](../OperatorWeights/) 
 
 

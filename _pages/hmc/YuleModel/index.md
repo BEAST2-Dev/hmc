@@ -20,5 +20,5 @@ It has a single parameter, the birth rate, which is usually estimated and requir
 
 ## Calibrations
 
-If you have calibrations, consider the [calibrated Yule model](../../CalibratedYuleModel/index/) instead.
+If you have calibrations, consider the [calibrated Yule model](../../CalibratedYuleModel/) instead.
 
