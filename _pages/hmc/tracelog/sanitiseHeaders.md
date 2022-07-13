@@ -11,4 +11,4 @@ When `sanitiseHeaders` is set to true for trace logs, this removes that clutter 
 The parameter names in shown in [Tracer](https://github.com/beast-dev/tracer/releases/) will look a bit nicer  when `sanitiseHeaders` is set to true, so this is recommended for trace logs.
 
 
-See also [tree log sanitise headers](../treelog/sanitiseHeaders/), [screen log sanitise headers](../screenlog/sanitiseHeaders/).
+See also [tree log sanitise headers](../../treelog/sanitiseHeaders/), [screen log sanitise headers](../../screenlog/sanitiseHeaders/).

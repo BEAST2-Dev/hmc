@@ -13,9 +13,9 @@ The [Bactrian operator schedule](https://www.beast2.org/2021/04/26/bactrian-prop
 
 
 See also: operator schedule settings -- 
-[auto optimize](../OperatorSchedule/autoOptimize/), 
-[auto optimize delay](../OperatorSchedule/autoOptimizeDelay/), 
-[detailed rejection](../OperatorSchedule/detailedRejection/), 
-[transform](../OperatorSchedule/transform/), 
-[weight](../OperatorSchedule/weight/), 
-[weight is percentage](../OperatorSchedule/weightIsPercentage/).
+[auto optimize](../../OperatorSchedule/autoOptimize/), 
+[auto optimize delay](../../OperatorSchedule/autoOptimizeDelay/), 
+[detailed rejection](../../OperatorSchedule/detailedRejection/), 
+[transform](../../OperatorSchedule/transform/), 
+[weight](../../OperatorSchedule/weight/), 
+[weight is percentage](../../OperatorSchedule/weightIsPercentage/).

@@ -12,7 +12,7 @@ After (or during) the run, open the trace log in [Tracer](https://github.com/bea
 
 If the traces do not look like this, then the chain length needs to be increased. Depending on how far away the traces look from their ideal, you may increase a little (perhaps double the chain length) or increase a lot (add a zero).
 
-Note that when changing the chain length, you might want to change the [log frequency](../tracelog/logEvery/) as well.
+Note that when changing the chain length, you might want to change the [log frequency](../../tracelog/logEvery/) as well.
 
 ## Alternatives
 

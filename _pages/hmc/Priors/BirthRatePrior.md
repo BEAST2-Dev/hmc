@@ -25,7 +25,7 @@ so we can use this as guide for the mean of \\(r\\).
 
 ## Step 3: Use mean and 95% HPD from Step 1 & 2 to parameterise a distribution
 
-See [Step 2 & 3](../YuleBirthRatePrior/index/) for the Yule birth rate prior on how do this.
+See [Step 2 & 3](../YuleBirthRatePrior/) for the Yule birth rate prior on how do this.
 
 
 ## References

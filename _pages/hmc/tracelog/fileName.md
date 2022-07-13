@@ -23,4 +23,4 @@ beast -D run=7 beast.xml
 
 results in the trace file being written in `beast-7.log`.
 
-See also [tree file name](../treefile/fileName/).
+See also [tree file name](../../treefile/fileName/).

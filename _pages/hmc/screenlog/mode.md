@@ -12,4 +12,4 @@ Logging mode, one of `autodetect`, `compound`, `tree`. For screen logs, `autodet
 * `compound` = compound logger that produces a tab delimited file that can be interpreted by [Tracer](https://github.com/beast-dev/tracer/releases/).
 * `tree` = tree logger that produces a NEXUS tree file that can be read by DensiTree, TreeAnnotator, etc. Logging a tree in `compound` mode just logs the tree height.
 
-See also [trace log mode](../tracelog/mode/), [tree log mode](../treelog/mode/).
+See also [trace log mode](../../tracelog/mode/), [tree log mode](../../treelog/mode/).

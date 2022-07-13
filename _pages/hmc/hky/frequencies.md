@@ -21,4 +21,4 @@ In general `estimated` is preferred, but if it hampers mixing and increasing the
 
 Hasegawa M, Kishino H, Yano TA. Dating of the human-ape splitting by a molecular clock of mitochondrial DNA. Journal of molecular evolution. 1985 Oct;22(2):160-74. <a href="https://doi.org/10.1007%2FBF02101694"> doi:10.1007/BF02101694</a>.
 
-See also [substitution models](/hmc/SiteModel/substModel/).
+See also [substitution models](../../SiteModel/substModel/).

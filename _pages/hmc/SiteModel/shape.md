@@ -6,7 +6,7 @@ tags: []
 
 ## Site Model shape
 
-Shape parameter of gamma distribution used when the gamma site rate heterogeneity model (Yang, 1994) is used, and the [gamma category count](gammaCategoryCount/) is set to a number larger than 1.
+Shape parameter of gamma distribution used when the gamma site rate heterogeneity model (Yang, 1994) is used, and the [gamma category count](../gammaCategoryCount/) is set to a number larger than 1.
 The shape parameter is ignored if gammaCategoryCount is 1 or less.
 
 ## `value` and `estimate`
@@ -34,4 +34,4 @@ Bouckaert RR. OBAMA: OBAMA for Bayesian amino-acid model averaging. PeerJ. 2020 
 
 Yang Z. Maximum likelihood phylogenetic estimation from DNA sequences with variable rates over sites: approximate methods. Journal of Molecular evolution. 1994 Sep;39(3):306-14. <a href="http://doi.org/10.1007/BF00160154">doi:10.1007/BF00160154</a>.
 
-See also [identifiability of gamma + I](http://www.beast2.org/2020/11/25/OBAMA.html), [gamma category count](gammaCategoryCount/), [proportion invariable](proportionInvariant/).
+See also [identifiability of gamma + I](http://www.beast2.org/2020/11/25/OBAMA.html), [gamma category count](../gammaCategoryCount/), [proportion invariable](../proportionInvariant/).

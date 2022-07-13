@@ -23,4 +23,4 @@ beast -D run=76 beast.xml
 
 results in the tree file being written in `beast-76.trees`.
 
-See also [trace file name](../tracefile/fileName/).
+See also [trace file name](../../tracefile/fileName/).
