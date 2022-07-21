@@ -28,6 +28,17 @@ so we can use this as guide for the mean of \\(r\\).
 See [Step 2 & 3](../YuleBirthRatePrior/) for the Yule birth rate prior on how do this.
 
 
+
+
+## Alternative: specify root age prior.
+
+Since the effective birth rate and root age are linked through the Birth Death prior, setting a prior on the root age can keep the birth rate in check, even with improper priors.
+See [root age prior](../RootAgePrior/) for details.
+
+
+
+
+
 ## References
 
 Magallon S, Sanderson MJ. Absolute diversification rates in angiosperm clades. Evolution. 2001 Sep;55(9):1762-80. <a href="http://doi.org/10.1111/j.0014-3820.2001.tb00826.x">doi:10.1111/j.0014-3820.2001.tb00826.x</a>.

@@ -25,6 +25,13 @@ Some experimentation may be necessary to get a satisfactory prior tree height.
 See also [growth rate prior](/hmc/Priors/GrowthRatePrior/), [population size prior](/hmc/Priors/PopSizePrior/) for constant population.
 
 
+
+## Alternative: specify root age prior.
+
+Since the population size and root age are linked through the exponential coalescent prior, setting a prior on the root age can keep the birth rate in check, even with improper priors.
+See [root age prior](../RootAgePrior/) for details.
+
+
 ## References
 
 Frankham R. Effective population size/adult population size ratios in wildlife: a review. Genetics Research. 1995 Oct;66(2):95-107. <a href="https://doi.org/10.1017/S0016672300034455">doi:10.1017/S0016672300034455</a>.

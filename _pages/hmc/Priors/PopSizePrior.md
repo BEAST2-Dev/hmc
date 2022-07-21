@@ -37,18 +37,7 @@ Fit the 95% HPD to the \\(N_{low}\\) and \\(N_{hi}\\) values obtained above.
 ## Option 2: Add prior on root age
 
 Instead of indirectly determining the population size prior, the population size can be left with a uniform \\([0,\infinity]\\) prior, and an MRCA prior can be added to the root age.
-Though this leaves an improper prior on the population size, the population size is linked to the root age by the coalescent prior, so it is not a parameter that can vary independently.
-
-A root age prior can be added in the priors panel by clicking the `+ Add priors` button at the bottom.
-In the dialog that pops up, select all taxa (click first taxon, use keys Ctrl-A or Cmd-A to select the rest) and add `root` for the label.
-Click the `OK` button, and a new entry with label `root.prior` appears in the list of priors.
-Select a parametric distribution in the drop-down box with distributions, and parameterise according to your prior.
-
-```
-Note: if clock prior is added when a root age distribution is selected this may indicate there is no other timing information that can inform the clock rate and the analysis will struggle to converge if the root age prior is quite wide.
-
-If there is not strong timinig information, the mean clock rate of the clock model should not be estimated: uncheck the estimate box in the clock model panel -- you may need to uncheck via menu `Mode => Automatic set clock rate` to enable the estimate box.
-```
+See [root age prior](../RootAgePrior/) for details.
 
 
 ## References 

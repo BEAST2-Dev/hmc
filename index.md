@@ -37,6 +37,7 @@ tags: []
 <br><a href='/hmc/hmc/Priors/populationMeanPrior/'>Population mean prior</a>
 <br><a href='/hmc/hmc/Priors/PropInvariantPrior/'>Proportion invariable prior</a>
 <br><a href='/hmc/hmc/Priors/RateGTRPrior/'>GTR rate priors</a>
+<br><a href='/hmc/hmc/Priors/RootAgePrior/'>Root age prior</a>
 <br><a href='/hmc/hmc/Priors/YuleBirthRatePrior/'>Yule birth rate prior</a>
 <br>See <a href='/hmc/hmc/Standard/Priors/'>here</a> for tree priors.
 
@@ -158,7 +159,7 @@ tags: []
 <br><a href='/hmc/hmc/RandomTree/rootHeight/'>Random tree -- root height</a>
 <br><a href='/hmc/hmc/RelaxedClock/normalize/'>Relaxed clock -- normalize</a>
 <br><a href='/hmc/hmc/RelaxedClock/numberOfDiscreteRates/'>Relaxed Clock -- number of discrete rates</a>
-<br><a href='/hmc/hmc/screenlog/fileName/'>Screen log -- file Name</a>
+<br><a href='/hmc/hmc/screenlog/fileName/'>Screen log -- file name</a>
 <br><a href='/hmc/hmc/screenlog/logEvery/'>Screen log -- log every</a>
 <br><a href='/hmc/hmc/screenlog/mode/'>Screen log -- mode</a>
 <br><a href='/hmc/hmc/screenlog/sanitiseHeaders/'>Screen log -- sanitise headers</a>

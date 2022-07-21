@@ -41,6 +41,14 @@ The median is in the middle of the range in logspace, e.g. with \\(M=-6.906,S=1.
 With \\(S=2.35\\) the range changes to 1e-5 to 1e-1, but the median remains at 1e-3.
 
 
+
+
+## Alternative: specify root age prior.
+
+Since the birth rate and root age are linked through the Yule prior, setting a prior on the root age can keep the birth rate in check, even with improper priors.
+See [root age prior](../RootAgePrior/) for details.
+
+
 ## References
 
 Magallon S, Sanderson MJ. Absolute diversification rates in angiosperm clades. Evolution. 2001 Sep;55(9):1762-80. <a href="http://doi.org/10.1111/j.0014-3820.2001.tb00826.x">doi:10.1111/j.0014-3820.2001.tb00826.x</a>.
