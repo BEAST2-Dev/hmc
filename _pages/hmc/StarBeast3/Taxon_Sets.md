@@ -1,7 +1,6 @@
-
 ---
 layout: site
-title: BEAST 2 Help Me Choose Standard template -- species clock model panel
+title: BEAST 2 Help Me Choose StarBeast3 template -- taxon sets panel
 tags: []
 ---
 
