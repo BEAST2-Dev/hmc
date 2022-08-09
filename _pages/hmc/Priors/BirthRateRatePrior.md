@@ -29,4 +29,4 @@ Since the effective birth rate and root age are linked through the Yule Skyline 
 
 ## References
 
-Remco R Bouckaert. An efficient coalescent epoch model for Bayesian phylogenetic inference. Sys Bio, syac015, 2022 [doi:10.1093/sysbio/syac015](https://doi.org/10.1093/sysbio/syac015)
+Bouckaert, RR. An efficient coalescent epoch model for Bayesian phylogenetic inference. Sys Bio, syac015, 2022 [doi:10.1093/sysbio/syac015](https://doi.org/10.1093/sysbio/syac015)

@@ -37,8 +37,9 @@ When running the relaxed clock model, keep an eye on the estimated lognormal clo
 
 ## References
 
+Douglas, J, Jiménez-Silva, CL, Bouckaert, RR. "StarBeast3: Adaptive Parallelized Bayesian Inference under the Multispecies Coalescent." Systematic Biology (2022). <a href="https://doi.org/10.1093/sysbio/syac010">10.1093/sysbio/syac010</a>.
+
 Douglas J, Zhang R, Bouckaert R. Adaptive dating and fast proposals: Revisiting the phylogenetic relaxed clock model. PLoS computational biology. 2021 Feb 2;17(2):e1008322. <a href="https://doi.org/10.1371/journal.pcbi.1008322">doi:10.1371/journal.pcbi.1008322</a>.
 
-Ogilvie, Huw A., Remco R. Bouckaert, and Alexei J. Drummond. "StarBEAST2 brings faster species tree inference and accurate estimates of substitution rates." Molecular biology and evolution 34.8 (2017): 2101-2114. <a href="https://doi.org/10.1093/molbev/msx126">doi:10.1093/molbev/msx126</a>.
+Ogilvie, HA, Bouckaert, RR, Drummond, AJ. "StarBEAST2 brings faster species tree inference and accurate estimates of substitution rates." Molecular biology and evolution 34.8 (2017): 2101-2114. <a href="https://doi.org/10.1093/molbev/msx126">doi:10.1093/molbev/msx126</a>.
 
-Douglas, Jordan, Cinthy L. Jiménez-Silva, and Remco Bouckaert. "StarBeast3: Adaptive Parallelized Bayesian Inference under the Multispecies Coalescent." Systematic Biology (2022). <a href="https://doi.org/10.1093/sysbio/syac010">10.1093/sysbio/syac010</a>.

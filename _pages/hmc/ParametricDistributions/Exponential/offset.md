@@ -6,7 +6,8 @@ tags: []
 
 ## Exponential offset
 
-offset of origin (defaults to 0)
+Offset of origin (defaults to 0).
+This shifts the distribution from its range of 0 to infinity to `offset` to infinity.
 
 
 See also [Exponential distribution](https://en.wikipedia.org/wiki/Exponential_distribution).

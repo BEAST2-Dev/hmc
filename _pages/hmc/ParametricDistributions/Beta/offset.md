@@ -6,7 +6,9 @@ tags: []
 
 ## Beta offset
 
-offset of origin (defaults to 0)
+Offset of origin (defaults to 0).
+The default range of the Beta distribution is from 0 to 1, but with offset it becomes from `offset` to `offset+1`.
+It is typically not used with the Beta distribution, but more common with other distributions.
 
 See also [Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution).
 

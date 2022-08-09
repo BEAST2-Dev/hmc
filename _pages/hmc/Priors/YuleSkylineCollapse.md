@@ -45,12 +45,13 @@ If `Linked Mean` is true, the model uses birth rate *rate* only for first epoch,
 ## References
 
 
+Bouckaert, RR. An efficient coalescent epoch model for Bayesian phylogenetic inference. Sys Bio, syac015, 2022 [doi:10.1093/sysbio/syac015](https://doi.org/10.1093/sysbio/syac015)
+
 Douglas, J., Bouckaert, R. Quantitatively defining species boundaries with more efficiency and more biological realism. _Commun Biol_ **5,** 755 (2022). [https://doi.org/10.1038/s42003-022-03723-z](https://doi.org/10.1038/s42003-022-03723-z)
 
-Remco R Bouckaert. An efficient coalescent epoch model for Bayesian phylogenetic inference. Sys Bio, syac015, 2022 [doi:10.1093/sysbio/syac015](https://doi.org/10.1093/sysbio/syac015)
-
-Jones, Graham, Zeynep Aydin, and Bengt Oxelman. "DISSECT: an assignment-free Bayesian discovery method for species delimitation under the multispecies coalescent." _Bioinformatics_ 31.7 (2015): 991-998. [https://doi.org/10.1093/bioinformatics/btu770](https://doi.org/10.1093/bioinformatics/btu770)
-
 Jones, G. Algorithmic improvements to species delimitation and phylogeny estimation under the multispecies coalescent. _J. Math. Biol._ **74,** 447–467 (2017). https://doi.org/10.1007/s00285-016-1034-0
+
+Jones, G., Aydin, Z., Oxelman, B. "DISSECT: an assignment-free Bayesian discovery method for species delimitation under the multispecies coalescent." _Bioinformatics_ 31.7 (2015): 991-998. [https://doi.org/10.1093/bioinformatics/btu770](https://doi.org/10.1093/bioinformatics/btu770)
+
 
 

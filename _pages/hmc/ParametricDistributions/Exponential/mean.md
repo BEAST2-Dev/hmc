@@ -6,8 +6,8 @@ tags: []
 
 ## Exponential mean
 
-mean parameter, defaults to 1
-
+Mean parameter that determines the mean of the exponential distribution.
+Should be a positive number.
 
 
 See also [Exponential distribution](https://en.wikipedia.org/wiki/Exponential_distribution).
