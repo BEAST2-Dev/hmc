@@ -17,10 +17,19 @@ tags: []
 <br><a href='/hmc/hmc/Standard/Starting_tree/'>Standard template -- starting tree panel</a>
 <br><a href='/hmc/hmc/Standard/Tip_Dates/'>Standard template -- tip dates panel</a>
 
+## StarBeast3 template
+<br><a href='/hmc/hmc/StarBeast3/Gene_Clock_Model/'>StarBeast3 template -- gene clock model panel</a>
+<br><a href='/hmc/hmc/StarBeast3/Gene_Ploidy/'>StarBeast3 template -- gene ploidy panel</a>
+<br><a href='/hmc/hmc/StarBeast3/Species_Clock_Model/'>StarBeast3 template -- species clock model panel</a>
+<br><a href='/hmc/hmc/StarBeast3/Taxon_Sets/'>StarBeast3 template -- taxon sets panel</a>
+
 ## Priors
+<br><a href='/hmc/hmc/Priors/BICEPS/'>BICEPS tree prior</a>
 <br><a href='/hmc/hmc/Priors/BirthRatePrior/'>Birth rate prior</a>
+<br><a href='/hmc/hmc/Priors/BirthRateRatePrior/'>Birth rate *rate* prior</a>
 <br><a href='/hmc/hmc/Priors/CalibratedYuleBirthRatePrior/'>Calibrated Yule birth rate prior</a>
 <br><a href='/hmc/hmc/Priors/ClockPrior/'>Clock prior</a>
+<br><a href='/hmc/hmc/Priors/CollapseWeightPrior/'>collapse weight rate prior</a>
 <br><a href='/hmc/hmc/Priors/DeathRatePrior/'>Death rate prior</a>
 <br><a href='/hmc/hmc/Priors/ePopSizePrior/'>Exponential pop size prior</a>
 <br><a href='/hmc/hmc/Priors/FrequenciesPrior/'>Frequencies prior</a>
@@ -39,6 +48,8 @@ tags: []
 <br><a href='/hmc/hmc/Priors/RateGTRPrior/'>GTR rate priors</a>
 <br><a href='/hmc/hmc/Priors/RootAgePrior/'>Root age prior</a>
 <br><a href='/hmc/hmc/Priors/YuleBirthRatePrior/'>Yule birth rate prior</a>
+<br><a href='/hmc/hmc/Priors/YuleSkyline/'>Yule skyline tree prior</a>
+<br><a href='/hmc/hmc/Priors/YuleSkylineCollapse/'>Yule-skyline collapse tree prior</a>
 <br>See <a href='/hmc/hmc/Standard/Priors/'>here</a> for tree priors.
 
 ## Parametric Distributions
@@ -85,7 +96,7 @@ tags: []
 <br><a href='/hmc/hmc/Operators/BitFlipper/'>Bit flip operator</a>
 <br><a href='/hmc/hmc/Operators/EpochFlexer/'>Epoch flex operator</a>
 <br><a href='/hmc/hmc/Operators/Exchange/'>Exchange operator</a>
-<br><a href='/hmc/hmc/Operators/OperatoreWeights/'>Operator weight tuning</a>
+<br><a href='/hmc/hmc/Operators/OperatorWeights/'>Operator weight tuning</a>
 <br><a href='/hmc/hmc/Operators/SampleOffValues/'>SampleOffValues operator</a>
 <br><a href='/hmc/hmc/Operators/SubtreeSlide/'>Subtree slide operator</a>
 <br><a href='/hmc/hmc/Operators/TreeStretcher/'>Tree stretch operator</a>

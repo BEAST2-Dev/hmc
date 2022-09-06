@@ -30,7 +30,7 @@ inputS.addEventListener("keyup", function(event) {
 <ul>
   {% for page in site.pages %}
     <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
+      <a href="/hmc{{ page.url }}">hmc/{{ page.title }}</a>
     </li>
   {% endfor %}
 </ul>
@@ -38,7 +38,7 @@ inputS.addEventListener("keyup", function(event) {
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="/hmc{{ post.url }}">hmc/{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
