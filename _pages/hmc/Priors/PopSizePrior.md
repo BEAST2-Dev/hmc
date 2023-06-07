@@ -7,7 +7,7 @@ tags: []
 ## Pop size prior
 
 The population size prior for the population of the coalescent tree prior with constant population.
-Note that this is the [effective population size](https://en.wikipedia.org/wiki/Effective_population_size), which can be  significantly smaller than the actual population size (Frankman, 1997).
+Note that this is the [effective population size](https://en.wikipedia.org/wiki/Effective_population_size), which can be  significantly smaller than the actual population size (Frankham, 1997).
 Especially in the case of viruses, there can be many order of magnitude difference.
 Knowledge of actual population size can therefore not directly used to inform the prior, though values from the literature could be used for inspiration. 
 
