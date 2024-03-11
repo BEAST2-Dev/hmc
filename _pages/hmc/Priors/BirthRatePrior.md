@@ -32,7 +32,7 @@ See [Step 2 & 3](../YuleBirthRatePrior/) for the Yule birth rate prior on how do
 
 ## Alternative: specify root age prior.
 
-Since the effective birth rate and root age are linked through the Birth Death prior, setting a prior on the root age can keep the birth rate in check, even with improper priors.
+Since the effective birth rate and root age are linked through the Birth Death prior, setting a prior on the root age can keep the birth rate in check, even with improper priors (though improper priors are not recommended).
 See [root age prior](../RootAgePrior/) for details.
 
 
