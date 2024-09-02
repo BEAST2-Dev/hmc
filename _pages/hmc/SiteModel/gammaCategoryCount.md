@@ -20,7 +20,7 @@ When running the gamma rate heterogeneity model, keep an eye out on the estimate
 
 
 A recent paper by Ferretti et al (2024) points out that the discretised gamma model with 4 categories can show biases in root age estimates, due to the gamma model not being able to capture the rates in the tail accurately.
-I found that increasing to 8 categories resolved the problem for their set-up.
+I found that <a href="https://www.beast2.org/2024/09/01/use-free-rates-or-not.html">increasing to 8 categories resolved the problem</a> for their set-up.
 When finding small shape parameter estimates, it may be useful to rerun the analysis with more categories and check whether age estimates are sensitive t the category count.
 
 

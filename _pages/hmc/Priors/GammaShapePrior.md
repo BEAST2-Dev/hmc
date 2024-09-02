@@ -6,7 +6,7 @@ tags: []
 
 ## Gamma Shape Prior
 
-The gamma shape prior is the prior on the gamma shape parameter of the gamma site rate heterogeneity model (Yang, 1994).
+The gamma shape prior is the prior on the gamma shape parameter of the <a href="/hmc/SiteModel/gammaCategoryCount/">gamma site rate heterogeneity model</a> (Yang, 1994).
 
 Use of the model implies some variability is to be expected in the rate at which sites evolve.
 
